@@ -1,0 +1,5828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PressCore v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 18:41+0200\n"
+"PO-Revision-Date: 2013-08-27 09:01:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:19
+#@ presscore
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+#@ presscore
+msgid "It looks like nothing was found at this location. Maybe try to use a search?"
+msgstr ""
+
+#: comments.php:41
+#: comments.php:61
+#@ presscore
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42
+#: comments.php:62
+#@ presscore
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:43
+#: comments.php:63
+#@ presscore
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:73
+#@ presscore
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+#, php-format
+#@ presscore
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:84
+#@ presscore
+msgid "Name &#42;"
+msgstr ""
+
+#: comments.php:84
+#@ presscore
+msgid "Name&#42;"
+msgstr ""
+
+#: comments.php:86
+#@ presscore
+msgid "Email &#42;"
+msgstr ""
+
+#: comments.php:86
+#@ presscore
+msgid "Email&#42;"
+msgstr ""
+
+#: comments.php:88
+#@ presscore
+msgid "Website"
+msgstr ""
+
+#: comments.php:93
+#@ presscore
+msgid "Comment"
+msgstr ""
+
+#: comments.php:95
+#, php-format
+#@ presscore
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+#@ presscore
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:99
+#, php-format
+#@ presscore
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:101
+#@ presscore
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-page.php:20
+#: content-single.php:63
+#: templates/portfolio-post-h.php:100
+#: templates/portfolio-post-v.php:25
+#@ presscore
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:21
+#@ presscore
+msgid "Edit"
+msgstr ""
+
+#: functions.php:67
+#@ presscore
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:68
+#@ presscore
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:69
+#@ presscore
+msgid "Bottom Menu"
+msgstr ""
+
+#: functions.php:504
+#@ presscore
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: functions.php:672
+#@ presscore
+msgid "clear"
+msgstr ""
+
+#: functions.php:673
+#@ presscore
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:701
+#@ presscore
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:703
+#: functions.php:724
+#@ presscore
+msgid "(Edit)"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:722
+#, php-format
+#@ presscore
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:737
+#@ presscore
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:152
+#@ presscore
+msgid "MENU"
+msgstr ""
+
+#: header.php:153
+#@ presscore
+msgid "CLOSE"
+msgstr ""
+
+#: header.php:154
+#@ presscore
+msgid "back"
+msgstr ""
+
+#: no-results.php:16
+#@ presscore
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:20
+#, php-format
+#@ presscore
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:24
+#@ presscore
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:29
+#@ presscore
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: searchform.php:14
+#@ presscore
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+#@ presscore
+msgid "Go!"
+msgstr ""
+
+#: inc/extras.php:75
+#, php-format
+#@ presscore
+msgid "Page %s"
+msgstr ""
+
+#: inc/helpers.php:1672
+#@ presscore
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/helpers.php:1672
+#@ presscore
+msgid "1 Comment"
+msgstr ""
+
+#: inc/helpers.php:1672
+#@ presscore
+msgid "% Comments"
+msgstr ""
+
+#: inc/helpers.php:1692
+#@ presscore
+msgid "Tags:"
+msgstr ""
+
+#: inc/helpers.php:2226
+#@ presscore
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers.php:2227
+#@ presscore
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:2229
+#@ presscore
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers.php:2228
+#@ presscore
+msgid "Google+"
+msgstr ""
+
+#: inc/helpers.php:2394
+#@ presscore
+msgid "About the author"
+msgstr ""
+
+#: inc/helpers.php:2722
+#@ presscore
+msgid "Date"
+msgstr ""
+
+#: inc/helpers.php:2723
+#@ presscore
+msgid "Name"
+msgstr ""
+
+#: inc/helpers.php:2727
+#@ presscore
+msgid "Desc"
+msgstr ""
+
+#: inc/helpers.php:2728
+#@ presscore
+msgid "Asc"
+msgstr ""
+
+#: inc/admin/admin-functions.php:435
+#: inc/extensions/class-tgm-plugin-activation.php:164
+#@ presscore
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/admin-functions.php:436
+#: inc/extensions/class-tgm-plugin-activation.php:165
+#@ presscore
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/admin-functions.php:437
+#: inc/extensions/class-tgm-plugin-activation.php:166
+#, php-format
+#@ presscore
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/admin-functions.php:438
+#@ presscore
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/admin-functions.php:449
+#: inc/extensions/class-tgm-plugin-activation.php:178
+#: inc/extensions/class-tgm-plugin-activation.php:490
+#@ presscore
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/admin-functions.php:450
+#: inc/extensions/class-tgm-plugin-activation.php:179
+#: inc/extensions/class-tgm-plugin-activation.php:1846
+#@ presscore
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/admin-functions.php:451
+#, php-format
+#@ presscore
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/admin/options-general.php:396
+#@ presscore
+msgid "Related posts"
+msgstr ""
+
+#: inc/admin/options-general.php:435
+#@ presscore
+msgid "Related projects"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:167
+#@ presscore
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:180
+#, php-format
+#@ presscore
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:517
+#: inc/extensions/class-tgm-plugin-activation.php:2058
+#@ presscore
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:545
+#, php-format
+#@ presscore
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:704
+#@ presscore
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1091
+#@ presscore
+msgid "External Link"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1096
+#@ presscore
+msgid "Private Repository"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1099
+#@ presscore
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1103
+#@ presscore
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1106
+#@ presscore
+msgid "Required"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1106
+#@ presscore
+msgid "Recommended"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1109
+#@ presscore
+msgid "Not Installed"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1111
+#@ presscore
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ presscore
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1297
+#@ presscore
+msgid "Plugin"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1298
+#@ presscore
+msgid "Source"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1299
+#@ presscore
+msgid "Type"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1300
+#@ presscore
+msgid "Status"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1318
+#@ presscore
+msgid "Install"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1319
+#@ presscore
+msgid "Activate"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1829
+#@ presscore
+msgid "Install package not available."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ presscore
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1831
+#@ presscore
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1832
+#@ presscore
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1833
+#@ presscore
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1834
+#@ presscore
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1845
+#@ presscore
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1955
+#@ presscore
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ presscore
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1956
+#: inc/extensions/class-tgm-plugin-activation.php:1965
+#@ presscore
+msgid "Show Details"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1956
+#: inc/extensions/class-tgm-plugin-activation.php:1965
+#@ presscore
+msgid "Hide Details"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1957
+#@ presscore
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ presscore
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1962
+#@ presscore
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ presscore
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ presscore
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ presscore
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1966
+#@ presscore
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ presscore
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:198
+#: inc/extensions/meta-box/inc/fields/image.php:62
+#@ presscore
+msgid "Order saved"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:235
+#: inc/extensions/meta-box/inc/fields/file.php:70
+#@ presscore
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/classes/meta-box.php:252
+#@ presscore
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: inc/extensions/meta-box/inc/classes/meta-box.php:426
+#@ presscore
+msgid "+"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/classes/meta-box.php:448
+#@ presscore
+msgid "&#8211;"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/button.php:36
+#@ presscore
+msgid "Click me"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file-advanced.php:23
+#@ presscore
+msgid "Select Files"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file.php:19
+#, php-format
+#@ presscore
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file.php:20
+#, php-format
+#@ presscore
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/image-advanced.php:22
+#@ presscore
+msgid "Select Images"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/map.php:48
+#@ presscore
+msgid "Find Address"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/post.php:54
+#@ presscore
+msgid "Post"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/post.php:68
+#: inc/extensions/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+#@ presscore
+msgid "Select a %s"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:685
+#@ presscore
+msgid "Theme Options"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:381
+#@ presscore
+msgid "Save Options"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:382
+#@ presscore
+msgid "Restore Defaults"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:382
+#@ presscore
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:414
+#@ presscore
+msgid "Default options restored."
+msgstr ""
+
+#: inc/extensions/options-framework/options-media-uploader.php:57
+#@ presscore
+msgid "No file chosen"
+msgstr ""
+
+#: inc/extensions/options-framework/options-media-uploader.php:61
+#: inc/extensions/options-framework/options-media-uploader.php:115
+#@ presscore
+msgid "Upload"
+msgstr ""
+
+#: inc/extensions/options-framework/options-media-uploader.php:63
+#: inc/extensions/options-framework/options-media-uploader.php:116
+#@ presscore
+msgid "Remove"
+msgstr ""
+
+#: inc/extensions/options-framework/options-media-uploader.php:66
+#@ presscore
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/extensions/options-framework/options-media-uploader.php:91
+#@ presscore
+msgid "View File"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+#@ presscore
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:391
+#@ presscore
+msgctxt "backend"
+msgid "Stylesheet saved."
+msgstr ""
+
+#: functions.php:575
+#: inc/widgets/accordion.php:110
+#: inc/widgets/contact-info.php:176
+#: inc/widgets/progress-bars.php:137
+#@ presscore
+msgctxt "widget"
+msgid "Title"
+msgstr ""
+
+#: functions.php:576
+#: inc/widgets/contact-info.php:177
+#@ presscore
+msgctxt "widget"
+msgid "Content"
+msgstr ""
+
+#: functions.php:577
+#: inc/widgets/progress-bars.php:138
+#@ presscore
+msgctxt "widget"
+msgid "Percent"
+msgstr ""
+
+#: functions.php:578
+#: inc/widgets/progress-bars.php:139
+#@ presscore
+msgctxt "widget"
+msgid "Show"
+msgstr ""
+
+#: functions.php:650
+#@ presscore
+msgctxt "paginator"
+msgid "Next page"
+msgstr ""
+
+#: functions.php:651
+#@ presscore
+msgctxt "paginator"
+msgid "Prev page"
+msgstr ""
+
+#: inc/admin/admin-functions.php:32
+#@ presscore
+msgctxt "backend"
+msgid "Error: Less css is not writable!"
+msgstr ""
+
+#: inc/admin/admin-functions.php:49
+#@ presscore
+msgctxt "attachment field"
+msgid "Video url"
+msgstr ""
+
+#: inc/admin/admin-functions.php:56
+#@ presscore
+msgctxt "attachment field"
+msgid "Image link"
+msgstr ""
+
+#: inc/admin/admin-functions.php:173
+#@ presscore
+msgctxt "backend"
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/admin/admin-functions.php:191
+#@ presscore
+msgctxt "backend"
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/admin-functions.php:192
+#@ presscore
+msgctxt "backend"
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/admin-functions.php:204
+#@ presscore
+msgctxt "backend"
+msgid "Slug"
+msgstr ""
+
+#: inc/admin/admin-functions.php:255
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Sidebar option"
+msgstr ""
+
+#: inc/admin/admin-functions.php:258
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Left"
+msgstr ""
+
+#: inc/admin/admin-functions.php:259
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Right"
+msgstr ""
+
+#: inc/admin/admin-functions.php:260
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/admin-functions.php:264
+#: inc/admin/admin-functions.php:280
+#: inc/admin/admin-functions.php:294
+#: inc/admin/admin-functions.php:304
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "&mdash; No Change &mdash;"
+msgstr ""
+
+#: inc/admin/admin-functions.php:272
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Widgetized footer"
+msgstr ""
+
+#: inc/admin/admin-functions.php:275
+#@ presscore
+msgctxt "backend bulk edit footer"
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/admin-functions.php:276
+#@ presscore
+msgctxt "backend bulk edit footer"
+msgid "Show"
+msgstr ""
+
+#: inc/admin/admin-functions.php:292
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/admin-functions.php:302
+#@ presscore
+msgctxt "backend bulk edit"
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/admin-functions.php:439
+#: inc/extensions/class-tgm-plugin-activation.php:168
+#, php-format
+#@ presscore
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:440
+#: inc/extensions/class-tgm-plugin-activation.php:169
+#, php-format
+#@ presscore
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:441
+#: inc/extensions/class-tgm-plugin-activation.php:170
+#, php-format
+#@ presscore
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:442
+#: inc/extensions/class-tgm-plugin-activation.php:171
+#, php-format
+#@ presscore
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:443
+#: inc/extensions/class-tgm-plugin-activation.php:172
+#, php-format
+#@ presscore
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:444
+#: inc/extensions/class-tgm-plugin-activation.php:173
+#, php-format
+#@ presscore
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:445
+#: inc/extensions/class-tgm-plugin-activation.php:174
+#, php-format
+#@ presscore
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:446
+#: inc/extensions/class-tgm-plugin-activation.php:175
+#, php-format
+#@ presscore
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:447
+#: inc/extensions/class-tgm-plugin-activation.php:176
+#@ presscore
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/admin-functions.php:448
+#: inc/extensions/class-tgm-plugin-activation.php:177
+#@ presscore
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/metaboxes-albums.php:18
+#@ presscore
+msgctxt ""
+msgid "Display Photo & Video Albums"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:38
+#@ presscore
+msgctxt "backend"
+msgid "ALL your Photo & Video albums are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:39
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Albums will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:40
+#: inc/admin/metaboxes-albums.php:273
+#@ presscore
+msgctxt "backend"
+msgid "But you can specify which Album(s) or Album category(s) will (or will not) be shown."
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:41
+#: inc/admin/metaboxes-albums.php:274
+#: inc/admin/metaboxes-blog.php:41
+#: inc/admin/metaboxes-portfolio.php:42
+#: inc/admin/metaboxes-team.php:41
+#: inc/admin/metaboxes-testimonials.php:41
+#@ presscore
+msgctxt "backend"
+msgid "In tabs above you can select from the following options:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:43
+#: inc/admin/metaboxes-albums.php:276
+#: inc/admin/metaboxes-blog.php:43
+#: inc/admin/metaboxes-portfolio.php:44
+#: inc/admin/metaboxes-team.php:43
+#: inc/admin/metaboxes-testimonials.php:43
+#@ presscore
+msgctxt "backend"
+msgid "All"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:45
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Albums will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:47
+#: inc/admin/metaboxes-albums.php:280
+#: inc/admin/metaboxes-blog.php:47
+#: inc/admin/metaboxes-portfolio.php:48
+#: inc/admin/metaboxes-team.php:47
+#: inc/admin/metaboxes-testimonials.php:47
+#@ presscore
+msgctxt "backend"
+msgid "Only"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:49
+#: inc/admin/metaboxes-albums.php:282
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose Album(s) or Album category(s) to be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:51
+#: inc/admin/metaboxes-albums.php:284
+#: inc/admin/metaboxes-blog.php:51
+#: inc/admin/metaboxes-portfolio.php:52
+#: inc/admin/metaboxes-team.php:51
+#: inc/admin/metaboxes-testimonials.php:51
+#@ presscore
+msgctxt "backend"
+msgid "All, except"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:53
+#: inc/admin/metaboxes-albums.php:286
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose which Album(s) or Album category(s) will be excluded from displaying on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:68
+#@ presscore
+msgctxt ""
+msgid "Albums Options"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:76
+#: inc/admin/metaboxes-albums.php:309
+#: inc/admin/metaboxes-blog.php:90
+#: inc/admin/metaboxes-portfolio.php:77
+#: inc/admin/metaboxes-team.php:76
+#: inc/admin/metaboxes-testimonials.php:76
+#: inc/admin/metaboxes.php:266
+#@ presscore
+msgctxt ""
+msgid "Layout:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:81
+#: inc/admin/metaboxes-albums.php:314
+#: inc/admin/metaboxes-blog.php:95
+#: inc/admin/metaboxes-portfolio.php:96
+#: inc/admin/metaboxes-team.php:81
+#: inc/admin/metaboxes-testimonials.php:81
+#@ presscore
+msgctxt ""
+msgid "Masonry"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:82
+#: inc/admin/metaboxes-albums.php:315
+#: inc/admin/metaboxes-blog.php:96
+#: inc/admin/metaboxes-portfolio.php:97
+#: inc/admin/metaboxes-team.php:82
+#: inc/admin/metaboxes-testimonials.php:82
+#@ presscore
+msgctxt ""
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:88
+#: inc/admin/metaboxes-albums.php:321
+#: inc/admin/metaboxes-blog.php:76
+#: inc/admin/metaboxes-team.php:88
+#: inc/admin/metaboxes-testimonials.php:92
+#@ presscore
+msgctxt ""
+msgid "Number of columns:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:102
+#@ presscore
+msgctxt ""
+msgid "Show albums descriptions:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:107
+#: inc/admin/metaboxes-albums.php:340
+#: inc/admin/metaboxes-portfolio.php:123
+#@ presscore
+msgctxt ""
+msgid "Under images"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:108
+#: inc/admin/metaboxes-albums.php:341
+#: inc/admin/metaboxes-portfolio.php:124
+#@ presscore
+msgctxt ""
+msgid "On image hovers"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:115
+#@ presscore
+msgctxt ""
+msgid "Make all albums the same width:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:124
+#: inc/admin/metaboxes-albums.php:348
+#@ presscore
+msgctxt ""
+msgid "Images sizing:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:129
+#: inc/admin/metaboxes-albums.php:353
+#: inc/admin/metaboxes-blog.php:119
+#@ presscore
+msgctxt ""
+msgid "preserve images proportions"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:130
+#: inc/admin/metaboxes-albums.php:354
+#: inc/admin/metaboxes-blog.php:120
+#@ presscore
+msgctxt ""
+msgid "resize images"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:155
+#@ presscore
+msgctxt ""
+msgid "Number of albums to display on one page:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:164
+#@ presscore
+msgctxt ""
+msgid "Show albums titles:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:174
+#@ presscore
+msgctxt ""
+msgid "Show albums excerpts:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:183
+#@ presscore
+msgctxt ""
+msgid "Show albums categories:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:192
+#@ presscore
+msgctxt ""
+msgid "Show albums filter:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:202
+#: inc/admin/metaboxes-portfolio.php:236
+#@ presscore
+msgctxt ""
+msgid "Show ordering:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:211
+#: inc/admin/metaboxes-albums.php:407
+#: inc/admin/metaboxes-blog.php:153
+#: inc/admin/metaboxes-portfolio.php:245
+#@ presscore
+msgctxt ""
+msgid "Show all pages in paginator:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:221
+#: inc/admin/metaboxes-albums.php:417
+#: inc/admin/metaboxes-blog.php:163
+#: inc/admin/metaboxes-portfolio.php:254
+#@ presscore
+msgctxt ""
+msgid "Order:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:231
+#: inc/admin/metaboxes-albums.php:427
+#: inc/admin/metaboxes-blog.php:173
+#@ presscore
+msgctxt ""
+msgid "Order by:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:251
+#@ presscore
+msgctxt ""
+msgid "Display Photos & Videos"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:271
+#@ presscore
+msgctxt "backend"
+msgid "ALL Photos & Videos from all your Albums are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:272
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Photos & Videos will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:278
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Photos & Videos from all Albums will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:301
+#@ presscore
+msgctxt ""
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:335
+#@ presscore
+msgctxt ""
+msgid "Show items descriptions:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:379
+#@ presscore
+msgctxt ""
+msgid "Number of items to display on one page:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:388
+#@ presscore
+msgctxt ""
+msgid "Show items titles:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:398
+#@ presscore
+msgctxt ""
+msgid "Show items captions:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:447
+#@ presscore
+msgctxt ""
+msgid "Add/Edit Media"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:470
+#@ presscore
+msgctxt ""
+msgid "Album Options"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:478
+#@ presscore
+msgctxt ""
+msgid "Exclude featured image from the album:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:486
+#@ presscore
+msgctxt ""
+msgid "Album preview width:"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:491
+#: inc/admin/metaboxes-blog.php:245
+#: inc/admin/metaboxes-portfolio.php:460
+#@ presscore
+msgctxt ""
+msgid "normal"
+msgstr ""
+
+#: inc/admin/metaboxes-albums.php:492
+#: inc/admin/metaboxes-blog.php:246
+#: inc/admin/metaboxes-portfolio.php:461
+#@ presscore
+msgctxt ""
+msgid "wide"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:18
+#@ presscore
+msgctxt ""
+msgid "Display Blog Categories"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:38
+#@ presscore
+msgctxt "backend"
+msgid "ALL your Blog posts are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:39
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Blog posts will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:40
+#@ presscore
+msgctxt "backend"
+msgid "But you can specify which Blog categories will (or will not) be shown."
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:45
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Blog posts (from all categories) will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:49
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose Blog category(s) to be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:53
+#: inc/admin/metaboxes-team.php:53
+#: inc/admin/metaboxes-testimonials.php:53
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose which category(s) will be excluded from displaying on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:68
+#@ presscore
+msgctxt ""
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:103
+#@ presscore
+msgctxt ""
+msgid "Make all posts the same width:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:114
+#@ presscore
+msgctxt ""
+msgid "Featured images sizing:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:144
+#@ presscore
+msgctxt ""
+msgid "Number of posts to display on one page:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:193
+#@ presscore
+msgctxt ""
+msgid "Post Options"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:201
+#@ presscore
+msgctxt ""
+msgid "Hide featured image on post page:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:209
+#@ presscore
+msgctxt ""
+msgid "Related posts category:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:214
+#: inc/admin/metaboxes-portfolio.php:430
+#@ presscore
+msgctxt ""
+msgid "from the same category"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:215
+#: inc/admin/metaboxes-portfolio.php:431
+#@ presscore
+msgctxt ""
+msgid "choose category(s)"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:240
+#@ presscore
+msgctxt ""
+msgid "Post preview width:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:249
+#, php-format
+#@ presscore
+msgctxt ""
+msgid "Related posts can be enabled / disabled from %sTheme Options / General / Related posts settings%s"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:252
+#@ presscore
+msgctxt ""
+msgid "Post Preview Options"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:257
+#@ presscore
+msgctxt ""
+msgid "For gallery post format:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:262
+#@ presscore
+msgctxt ""
+msgid "standard image gallery"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:263
+#@ presscore
+msgctxt ""
+msgid "featured image with gallery hover"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:264
+#: inc/admin/metaboxes-portfolio.php:478
+#@ presscore
+msgctxt ""
+msgid "slideshow"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:266
+#@ presscore
+msgctxt ""
+msgid "Post Preview Style"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:275
+#: inc/admin/metaboxes-portfolio.php:349
+#: inc/admin/metaboxes-portfolio.php:487
+#: inc/admin/metaboxes.php:288
+#: inc/admin/metaboxes.php:313
+#@ presscore
+msgctxt ""
+msgid "Slider proportions:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:283
+#@ presscore
+msgctxt ""
+msgid "For video post format:"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:288
+#@ presscore
+msgctxt ""
+msgid "image"
+msgstr ""
+
+#: inc/admin/metaboxes-blog.php:289
+#@ presscore
+msgctxt ""
+msgid "image with \"Play\" icon"
+msgstr ""
+
+#: inc/admin/metaboxes-logos.php:18
+#: inc/admin/metaboxes-team.php:148
+#: inc/admin/metaboxes-testimonials.php:125
+#@ presscore
+msgctxt ""
+msgid "Options"
+msgstr ""
+
+#: inc/admin/metaboxes-logos.php:26
+#@ presscore
+msgctxt ""
+msgid "Target link:"
+msgstr ""
+
+#: inc/admin/metaboxes-logos.php:35
+#@ presscore
+msgctxt ""
+msgid "Retina image:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:19
+#@ presscore
+msgctxt ""
+msgid "Display Portfolio Category(s)"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:39
+#@ presscore
+msgctxt "backend"
+msgid "ALL your Portfolio projects are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:40
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Portfolio projects will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:41
+#@ presscore
+msgctxt "backend"
+msgid "But you can specify which Portfolio project category(s) will (or will not) be shown."
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:46
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Projects will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:50
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose Project category(s) to be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:54
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose which Project category(s) will be excluded from displaying on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:69
+#@ presscore
+msgctxt ""
+msgid "Portfolio Options"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:82
+#@ presscore
+msgctxt ""
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:83
+#@ presscore
+msgctxt ""
+msgid "Checkerboard order"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:91
+#@ presscore
+msgctxt ""
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:104
+#@ presscore
+msgctxt ""
+msgid "Number of columns"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:118
+#@ presscore
+msgctxt ""
+msgid "Show projects descriptions:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:131
+#@ presscore
+msgctxt ""
+msgid "Make all projects the same width"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:141
+#@ presscore
+msgctxt ""
+msgid "Image layout:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:146
+#@ presscore
+msgctxt ""
+msgid "Preserve image proportions"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:147
+#@ presscore
+msgctxt ""
+msgid "Resize images"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:172
+#@ presscore
+msgctxt ""
+msgid "Number of projects to display on one page"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:181
+#@ presscore
+msgctxt ""
+msgid "Show projects titles:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:191
+#@ presscore
+msgctxt ""
+msgid "Show projects excerpts:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:200
+#@ presscore
+msgctxt ""
+msgid "Show projects categories:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:209
+#@ presscore
+msgctxt ""
+msgid "Show details buttons:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:218
+#@ presscore
+msgctxt ""
+msgid "Show links buttons:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:227
+#@ presscore
+msgctxt ""
+msgid "Show categories filter:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:264
+#@ presscore
+msgctxt ""
+msgid "Orderby:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:284
+#@ presscore
+msgctxt ""
+msgid "Add/Edit Project Media"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:307
+#@ presscore
+msgctxt ""
+msgid "Media Options"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:315
+#@ presscore
+msgctxt ""
+msgid "Layout settings:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:320
+#@ presscore
+msgctxt ""
+msgid "Media on the left of content"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:321
+#@ presscore
+msgctxt ""
+msgid "Media on the right of content"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:322
+#@ presscore
+msgctxt ""
+msgid "Media before content area"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:323
+#@ presscore
+msgctxt ""
+msgid "Media after content area"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:324
+#@ presscore
+msgctxt ""
+msgid "Media disabled (blank page)"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:330
+#@ presscore
+msgctxt ""
+msgid "Show media as:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:335
+#: inc/admin/metaboxes.php:191
+#@ presscore
+msgctxt ""
+msgid "Slideshow"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:336
+#@ presscore
+msgctxt ""
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:337
+#: inc/admin/metaboxes-testimonials.php:83
+#@ presscore
+msgctxt ""
+msgid "List"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:367
+#@ presscore
+msgctxt ""
+msgid "Project Options"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:375
+#@ presscore
+msgctxt ""
+msgid "Project link:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:388
+#: inc/admin/metaboxes-testimonials.php:141
+#@ presscore
+msgctxt ""
+msgid "Link:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:396
+#@ presscore
+msgctxt ""
+msgid "Caption:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:404
+#@ presscore
+msgctxt ""
+msgid "Target:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:409
+#@ presscore
+msgctxt ""
+msgid "_self"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:410
+#@ presscore
+msgctxt ""
+msgid "_blank"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:416
+#@ presscore
+msgctxt ""
+msgid "Hide featured image on project page:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:425
+#@ presscore
+msgctxt ""
+msgid "Related projects category:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:455
+#@ presscore
+msgctxt ""
+msgid "Project preview width:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:464
+#, php-format
+#@ presscore
+msgctxt ""
+msgid "Related projects can be enabled / disabled from %sTheme Options / General / Related posts settings%s"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:467
+#@ presscore
+msgctxt ""
+msgid "Project Preview Options"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:472
+#@ presscore
+msgctxt ""
+msgid "Preview style:"
+msgstr ""
+
+#: inc/admin/metaboxes-portfolio.php:477
+#@ presscore
+msgctxt ""
+msgid "featured image"
+msgstr ""
+
+#: inc/admin/metaboxes-slideshow.php:19
+#@ presscore
+msgctxt ""
+msgid "Add/Edit Slides"
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:18
+#@ presscore
+msgctxt ""
+msgid "Display Team Members by Category(s)"
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:38
+#@ presscore
+msgctxt "backend"
+msgid "ALL your Team  Members are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:39
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Team Members will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:40
+#@ presscore
+msgctxt "backend"
+msgid "But you can specify which Team  Members categories will (or will not) be shown."
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:45
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Team  Members (from all categories) will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:49
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose Team category(s) to be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:68
+#@ presscore
+msgctxt ""
+msgid "Team Options"
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:102
+#@ presscore
+msgctxt ""
+msgid "Number of team members on one page:"
+msgstr ""
+
+#: inc/admin/metaboxes-team.php:127
+#: inc/admin/metaboxes-testimonials.php:133
+#@ presscore
+msgctxt ""
+msgid "Position:"
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:18
+#@ presscore
+msgctxt ""
+msgid "Display Testimonials Category(s)"
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:38
+#@ presscore
+msgctxt "backend"
+msgid "ALL your Testimonials are being displayed on this page!"
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:39
+#@ presscore
+msgctxt "backend"
+msgid "By default all your Testimonials will be displayed on this page. "
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:40
+#@ presscore
+msgctxt "backend"
+msgid "But you can specify which Testimonials categories will (or will not) be shown."
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:45
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; all Testimonials (from all categories) will be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:49
+#@ presscore
+msgctxt "backend"
+msgid " &mdash; choose Testimonials category(s) to be shown on this page."
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:68
+#@ presscore
+msgctxt ""
+msgid "Testimonials Options"
+msgstr ""
+
+#: inc/admin/metaboxes-testimonials.php:106
+#@ presscore
+msgctxt ""
+msgid "Number of testimonials on one page:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:18
+#@ presscore
+msgctxt ""
+msgid "None"
+msgstr ""
+
+#: inc/admin/metaboxes.php:22
+#@ presscore
+msgctxt "backend"
+msgid "ascending"
+msgstr ""
+
+#: inc/admin/metaboxes.php:23
+#@ presscore
+msgctxt "backend"
+msgid "descending"
+msgstr ""
+
+#: inc/admin/metaboxes.php:27
+#@ presscore
+msgctxt "backend"
+msgid "ID"
+msgstr ""
+
+#: inc/admin/metaboxes.php:28
+#@ presscore
+msgctxt "backend"
+msgid "author"
+msgstr ""
+
+#: inc/admin/metaboxes.php:29
+#@ presscore
+msgctxt "backend"
+msgid "title"
+msgstr ""
+
+#: inc/admin/metaboxes.php:30
+#@ presscore
+msgctxt "backend"
+msgid "name"
+msgstr ""
+
+#: inc/admin/metaboxes.php:31
+#@ presscore
+msgctxt "backend"
+msgid "date"
+msgstr ""
+
+#: inc/admin/metaboxes.php:32
+#@ presscore
+msgctxt "backend"
+msgid "modified"
+msgstr ""
+
+#: inc/admin/metaboxes.php:33
+#@ presscore
+msgctxt "backend"
+msgid "parent"
+msgstr ""
+
+#: inc/admin/metaboxes.php:34
+#@ presscore
+msgctxt "backend"
+msgid "rand"
+msgstr ""
+
+#: inc/admin/metaboxes.php:35
+#@ presscore
+msgctxt "backend"
+msgid "comment_count"
+msgstr ""
+
+#: inc/admin/metaboxes.php:36
+#@ presscore
+msgctxt "backend"
+msgid "menu_order"
+msgstr ""
+
+#: inc/admin/metaboxes.php:40
+#@ presscore
+msgctxt ""
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/metaboxes.php:41
+#@ presscore
+msgctxt ""
+msgid "No"
+msgstr ""
+
+#: inc/admin/metaboxes.php:46
+#@ presscore
+msgctxt "backend"
+msgid "repeat"
+msgstr ""
+
+#: inc/admin/metaboxes.php:47
+#@ presscore
+msgctxt "backend"
+msgid "repeat-x"
+msgstr ""
+
+#: inc/admin/metaboxes.php:48
+#@ presscore
+msgctxt "backend"
+msgid "repeat-y"
+msgstr ""
+
+#: inc/admin/metaboxes.php:49
+#@ presscore
+msgctxt "backend"
+msgid "no-repeat"
+msgstr ""
+
+#: inc/admin/metaboxes.php:53
+#: inc/admin/metaboxes.php:59
+#@ presscore
+msgctxt "backend"
+msgid "center"
+msgstr ""
+
+#: inc/admin/metaboxes.php:54
+#@ presscore
+msgctxt "backend"
+msgid "left"
+msgstr ""
+
+#: inc/admin/metaboxes.php:55
+#@ presscore
+msgctxt "backend"
+msgid "right"
+msgstr ""
+
+#: inc/admin/metaboxes.php:60
+#@ presscore
+msgctxt "backend"
+msgid "top"
+msgstr ""
+
+#: inc/admin/metaboxes.php:61
+#@ presscore
+msgctxt "backend"
+msgid "bottom"
+msgstr ""
+
+#: inc/admin/metaboxes.php:68
+#@ presscore
+msgctxt ""
+msgid "none"
+msgstr ""
+
+#: inc/admin/metaboxes.php:99
+#@ presscore
+msgctxt ""
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:107
+#@ presscore
+msgctxt ""
+msgid "Sidebar position:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:112
+#@ presscore
+msgctxt ""
+msgid "Left"
+msgstr ""
+
+#: inc/admin/metaboxes.php:113
+#@ presscore
+msgctxt ""
+msgid "Right"
+msgstr ""
+
+#: inc/admin/metaboxes.php:114
+#@ presscore
+msgctxt ""
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/metaboxes.php:123
+#@ presscore
+msgctxt ""
+msgid "Sidebar widget area:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:141
+#@ presscore
+msgctxt ""
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:149
+#@ presscore
+msgctxt ""
+msgid "Show widgetized footer:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:158
+#@ presscore
+msgctxt ""
+msgid "Footer widget area:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:176
+#@ presscore
+msgctxt ""
+msgid "Page Header Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:188
+#@ presscore
+msgctxt ""
+msgid "Show page title"
+msgstr ""
+
+#: inc/admin/metaboxes.php:189
+#@ presscore
+msgctxt ""
+msgid "Hide page title"
+msgstr ""
+
+#: inc/admin/metaboxes.php:190
+#@ presscore
+msgctxt ""
+msgid "Fancy header"
+msgstr ""
+
+#: inc/admin/metaboxes.php:201
+#@ presscore
+msgctxt ""
+msgid "Header overlapping"
+msgstr ""
+
+#: inc/admin/metaboxes.php:207
+#@ presscore
+msgctxt ""
+msgid "On"
+msgstr ""
+
+#: inc/admin/metaboxes.php:208
+#@ presscore
+msgctxt ""
+msgid "Off"
+msgstr ""
+
+#: inc/admin/metaboxes.php:223
+#@ presscore
+msgctxt ""
+msgid "Slideshow Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:235
+#@ presscore
+msgctxt ""
+msgid "Porthole slider"
+msgstr ""
+
+#: inc/admin/metaboxes.php:236
+#@ presscore
+msgctxt ""
+msgid "Metro slider"
+msgstr ""
+
+#: inc/admin/metaboxes.php:237
+#@ presscore
+msgctxt ""
+msgid "3D slideshow"
+msgstr ""
+
+#: inc/admin/metaboxes.php:238
+#@ presscore
+msgctxt ""
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/admin/metaboxes.php:250
+#@ presscore
+msgctxt ""
+msgid "Slideshow(s):"
+msgstr ""
+
+#: inc/admin/metaboxes.php:254
+#@ presscore
+msgctxt ""
+msgid "if non selected, all slideshows will be displayed."
+msgstr ""
+
+#: inc/admin/metaboxes.php:254
+#@ presscore
+msgctxt ""
+msgid "Edit slideshows"
+msgstr ""
+
+#: inc/admin/metaboxes.php:271
+#@ presscore
+msgctxt ""
+msgid "full-screen"
+msgstr ""
+
+#: inc/admin/metaboxes.php:272
+#@ presscore
+msgctxt ""
+msgid "full-screen with content"
+msgstr ""
+
+#: inc/admin/metaboxes.php:273
+#@ presscore
+msgctxt ""
+msgid "proportional, full-width"
+msgstr ""
+
+#: inc/admin/metaboxes.php:274
+#@ presscore
+msgctxt ""
+msgid "proportional, content-width"
+msgstr ""
+
+#: inc/admin/metaboxes.php:300
+#@ presscore
+msgctxt ""
+msgid "Slider layout:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:305
+#@ presscore
+msgctxt ""
+msgid "full-width"
+msgstr ""
+
+#: inc/admin/metaboxes.php:306
+#@ presscore
+msgctxt ""
+msgid "content-width"
+msgstr ""
+
+#: inc/admin/metaboxes.php:321
+#@ presscore
+msgctxt ""
+msgid "Images sizing: "
+msgstr ""
+
+#: inc/admin/metaboxes.php:326
+#@ presscore
+msgctxt ""
+msgid "fit (preserve proportions)"
+msgstr ""
+
+#: inc/admin/metaboxes.php:327
+#@ presscore
+msgctxt ""
+msgid "fill the viewport (crop)"
+msgstr ""
+
+#: inc/admin/metaboxes.php:334
+#@ presscore
+msgctxt ""
+msgid "On page load slideshow is: "
+msgstr ""
+
+#: inc/admin/metaboxes.php:339
+#@ presscore
+msgctxt ""
+msgid "playing"
+msgstr ""
+
+#: inc/admin/metaboxes.php:340
+#@ presscore
+msgctxt ""
+msgid "paused"
+msgstr ""
+
+#: inc/admin/metaboxes.php:350
+#@ presscore
+msgctxt ""
+msgid "Autoslide interval (in milliseconds):"
+msgstr ""
+
+#: inc/admin/metaboxes.php:361
+#@ presscore
+msgctxt ""
+msgid "Number of slides in a row:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:373
+#@ presscore
+msgctxt ""
+msgid "Number of slides in a column:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:381
+#@ presscore
+msgctxt ""
+msgid "Choose slider: "
+msgstr ""
+
+#: inc/admin/metaboxes.php:400
+#@ presscore
+msgctxt ""
+msgid "Fancy Header Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:408
+#@ presscore
+msgctxt ""
+msgid "Header alignment:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:413
+#@ presscore
+msgctxt ""
+msgid "Title left"
+msgstr ""
+
+#: inc/admin/metaboxes.php:414
+#@ presscore
+msgctxt ""
+msgid "Centered"
+msgstr ""
+
+#: inc/admin/metaboxes.php:415
+#@ presscore
+msgctxt ""
+msgid "Title right"
+msgstr ""
+
+#: inc/admin/metaboxes.php:421
+#@ presscore
+msgctxt ""
+msgid "Title:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:430
+#@ presscore
+msgctxt ""
+msgid "Title color:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:438
+#@ presscore
+msgctxt ""
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:446
+#@ presscore
+msgctxt ""
+msgid "Subtitle color:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:454
+#@ presscore
+msgctxt ""
+msgid "Background color:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:463
+#@ presscore
+msgctxt ""
+msgid "Background image:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:471
+#@ presscore
+msgctxt ""
+msgid "Repeat options:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:480
+#@ presscore
+msgctxt ""
+msgid "Position x:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:489
+#@ presscore
+msgctxt ""
+msgid "Position y:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:498
+#@ presscore
+msgctxt ""
+msgid "Fullscreen:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:515
+#@ presscore
+msgctxt ""
+msgid "Content Area Options"
+msgstr ""
+
+#: inc/admin/metaboxes.php:523
+#@ presscore
+msgctxt ""
+msgid "Display content area:"
+msgstr ""
+
+#: inc/admin/metaboxes.php:528
+#@ presscore
+msgctxt ""
+msgid "no"
+msgstr ""
+
+#: inc/admin/metaboxes.php:529
+#@ presscore
+msgctxt ""
+msgid "first page"
+msgstr ""
+
+#: inc/admin/metaboxes.php:530
+#@ presscore
+msgctxt ""
+msgid "all pages"
+msgstr ""
+
+#: inc/admin/metaboxes.php:537
+#@ presscore
+msgctxt ""
+msgid "Content area position"
+msgstr ""
+
+#: inc/admin/metaboxes.php:542
+#@ presscore
+msgctxt ""
+msgid "Before items"
+msgstr ""
+
+#: inc/admin/metaboxes.php:543
+#@ presscore
+msgctxt ""
+msgid "After items"
+msgstr ""
+
+#: inc/admin/metaboxes.php:670
+#@ presscore
+msgctxt "backend metabox"
+msgid "+ Show"
+msgstr ""
+
+#: inc/admin/metaboxes.php:671
+#@ presscore
+msgctxt "backend metabox"
+msgid "- Hide"
+msgstr ""
+
+#: inc/admin/metaboxes.php:672
+#@ presscore
+msgctxt "backend metabox"
+msgid "advanced settings"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:13
+#: inc/admin/options-bottombar.php:14
+#: inc/admin/options-bottombar.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Bottom Bar"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:27
+#: inc/admin/options-general.php:83
+#: inc/admin/options-slideshow.php:27
+#: inc/admin/options-stripes.php:35
+#@ presscore
+msgctxt "theme-options"
+msgid "Background"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:32
+#: inc/admin/options-footer.php:27
+#: inc/admin/options-general.php:162
+#: inc/admin/options-header.php:32
+#: inc/admin/options-header.php:86
+#: inc/admin/options-sidebar.php:34
+#: inc/admin/options-sidebar.php:39
+#: inc/admin/options-topbar.php:48
+#: inc/admin/options-topbar.php:199
+#@ presscore
+msgctxt "theme-options"
+msgid "Background color"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:41
+#: inc/admin/options-contentarea.php:75
+#: inc/admin/options-contentarea.php:115
+#: inc/admin/options-footer.php:41
+#: inc/admin/options-footer.php:95
+#: inc/admin/options-general.php:97
+#: inc/admin/options-header.php:41
+#: inc/admin/options-header.php:95
+#: inc/admin/options-header.php:251
+#: inc/admin/options-imagehoovers.php:50
+#: inc/admin/options-sidebar.php:48
+#: inc/admin/options-sidebar.php:102
+#: inc/admin/options-slideshow.php:41
+#: inc/admin/options-stripes.php:44
+#: inc/admin/options-stripes.php:132
+#: inc/admin/options-stripes.php:168
+#: inc/admin/options-topbar.php:57
+#@ presscore
+msgctxt "theme-options"
+msgid "Opacity"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:54
+#: inc/admin/options-contentarea.php:88
+#: inc/admin/options-contentarea.php:128
+#: inc/admin/options-footer.php:54
+#: inc/admin/options-footer.php:108
+#: inc/admin/options-general.php:110
+#: inc/admin/options-header.php:54
+#: inc/admin/options-header.php:108
+#: inc/admin/options-header.php:264
+#: inc/admin/options-header.php:300
+#: inc/admin/options-header.php:368
+#: inc/admin/options-header.php:401
+#: inc/admin/options-sidebar.php:61
+#: inc/admin/options-sidebar.php:115
+#: inc/admin/options-slideshow.php:54
+#: inc/admin/options-stripes.php:56
+#: inc/admin/options-stripes.php:145
+#: inc/admin/options-stripes.php:181
+#@ presscore
+msgctxt "theme-options"
+msgid "Internet Explorer color"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:66
+#: inc/admin/options-footer.php:65
+#: inc/admin/options-sidebar.php:73
+#: inc/admin/options-topbar.php:80
+#@ presscore
+msgctxt "theme-options"
+msgid "Image uploader"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:76
+#: inc/admin/options-bottombar.php:81
+#: inc/admin/options-header.php:224
+#: inc/admin/options-header.php:328
+#@ presscore
+msgctxt "theme-options"
+msgid "Font color"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:92
+#: inc/admin/options-bottombar.php:97
+#@ presscore
+msgctxt "theme-options"
+msgid "Copyright information"
+msgstr ""
+
+#: inc/admin/options-bottombar.php:105
+#@ presscore
+msgctxt "theme-options"
+msgid "Give credits to Dream-Theme"
+msgstr ""
+
+#: inc/admin/options-buttons.php:13
+#: inc/admin/options-buttons.php:14
+#: inc/admin/options-buttons.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Buttons"
+msgstr ""
+
+#: inc/admin/options-buttons.php:27
+#: inc/admin/options-buttons.php:31
+#@ presscore
+msgctxt "theme-options"
+msgid "Buttons background color"
+msgstr ""
+
+#: inc/admin/options-buttons.php:42
+#: inc/admin/options-buttons.php:46
+#@ presscore
+msgctxt "theme-options"
+msgid "Buttons shadow"
+msgstr ""
+
+#: inc/admin/options-buttons.php:57
+#: inc/admin/options-buttons.php:61
+#@ presscore
+msgctxt "theme-options"
+msgid "Buttons text color"
+msgstr ""
+
+#: inc/admin/options-buttons.php:72
+#: inc/admin/options-buttons.php:76
+#@ presscore
+msgctxt "theme-options"
+msgid "Buttons text shadow"
+msgstr ""
+
+#: inc/admin/options-buttons.php:92
+#@ presscore
+msgctxt "theme-options"
+msgid "desc"
+msgstr ""
+
+#: inc/admin/options-buttons.php:96
+#: inc/admin/options-fonts.php:95
+#@ presscore
+msgctxt "theme-options"
+msgid "Font-family"
+msgstr ""
+
+#: inc/admin/options-buttons.php:105
+#: inc/admin/options-fonts.php:105
+#@ presscore
+msgctxt "theme-options"
+msgid "Font-size"
+msgstr ""
+
+#: inc/admin/options-buttons.php:115
+#: inc/admin/options-fonts.php:124
+#@ presscore
+msgctxt "theme-options"
+msgid "Uppercase"
+msgstr ""
+
+#: inc/admin/options-buttons.php:123
+#: inc/admin/options-fonts.php:72
+#: inc/admin/options-fonts.php:116
+#@ presscore
+msgctxt "theme-options"
+msgid "Line-height"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:13
+#: inc/admin/options-contentarea.php:14
+#: inc/admin/options-contentarea.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Content Area"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:27
+#: inc/admin/options-footer.php:121
+#: inc/admin/options-sidebar.php:128
+#: inc/admin/options-stripes.php:101
+#@ presscore
+msgctxt "theme-options"
+msgid "Text"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:32
+#: inc/admin/options-footer.php:126
+#: inc/admin/options-sidebar.php:133
+#: inc/admin/options-stripes.php:102
+#@ presscore
+msgctxt "theme-options"
+msgid "Headers color"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:41
+#: inc/admin/options-footer.php:135
+#: inc/admin/options-sidebar.php:142
+#@ presscore
+msgctxt "theme-options"
+msgid "Primary text color"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:50
+#: inc/admin/options-footer.php:144
+#: inc/admin/options-sidebar.php:151
+#@ presscore
+msgctxt "theme-options"
+msgid "Secondary text color"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:61
+#: inc/admin/options-footer.php:81
+#: inc/admin/options-general.php:254
+#: inc/admin/options-sidebar.php:88
+#: inc/admin/options-stripes.php:122
+#@ presscore
+msgctxt "theme-options"
+msgid "Dividers"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:66
+#: inc/admin/options-contentarea.php:106
+#: inc/admin/options-footer.php:32
+#: inc/admin/options-footer.php:86
+#: inc/admin/options-general.php:88
+#: inc/admin/options-imagehoovers.php:32
+#: inc/admin/options-sidebar.php:93
+#: inc/admin/options-slideshow.php:32
+#: inc/admin/options-stripes.php:36
+#: inc/admin/options-stripes.php:123
+#: inc/admin/options-stripes.php:159
+#@ presscore
+msgctxt "theme-options"
+msgid "Color"
+msgstr ""
+
+#: inc/admin/options-contentarea.php:101
+#: inc/admin/options-stripes.php:158
+#@ presscore
+msgctxt "theme-options"
+msgid "Additional backgrounds (used in meta information, shortcodes etc)"
+msgstr ""
+
+#: inc/admin/options-fonts.php:13
+#: inc/admin/options-fonts.php:14
+#: inc/admin/options-fonts.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Fonts"
+msgstr ""
+
+#: inc/admin/options-fonts.php:27
+#@ presscore
+msgctxt "theme-options"
+msgid "Basic font"
+msgstr ""
+
+#: inc/admin/options-fonts.php:32
+#@ presscore
+msgctxt "theme-options"
+msgid "Choose basic font-family"
+msgstr ""
+
+#: inc/admin/options-fonts.php:43
+#@ presscore
+msgctxt "theme-options"
+msgid "Normal font size"
+msgstr ""
+
+#: inc/admin/options-fonts.php:47
+#@ presscore
+msgctxt "theme-options"
+msgid "Small font size"
+msgstr ""
+
+#: inc/admin/options-fonts.php:51
+#@ presscore
+msgctxt "theme-options"
+msgid "Big font size"
+msgstr ""
+
+#: inc/admin/options-fonts.php:84
+#@ presscore
+msgctxt "theme-options"
+msgid "Headers fonts"
+msgstr ""
+
+#: inc/admin/options-footer.php:13
+#: inc/admin/options-footer.php:14
+#: inc/admin/options-footer.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/options-general.php:13
+#: inc/admin/options-general.php:14
+#: inc/admin/options-general.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "General"
+msgstr ""
+
+#: inc/admin/options-general.php:27
+#@ presscore
+msgctxt "theme-options"
+msgid "Logo in header"
+msgstr ""
+
+#: inc/admin/options-general.php:32
+#: inc/admin/options-general.php:61
+#@ presscore
+msgctxt "theme-options"
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/options-general.php:43
+#: inc/admin/options-general.php:71
+#@ presscore
+msgctxt "theme-options"
+msgid "High-DPI (retina) logo"
+msgstr ""
+
+#: inc/admin/options-general.php:56
+#@ presscore
+msgctxt "theme-options"
+msgid "Logo in bottom line"
+msgstr ""
+
+#: inc/admin/options-general.php:120
+#: inc/admin/options-general.php:172
+#: inc/admin/options-stripes.php:70
+#@ presscore
+msgctxt "theme-options"
+msgid "Choose/upload background image"
+msgstr ""
+
+#: inc/admin/options-general.php:134
+#: inc/admin/options-slideshow.php:78
+#: inc/admin/options-stripes.php:80
+#@ presscore
+msgctxt "theme-options"
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/admin/options-general.php:145
+#: inc/admin/options-general.php:149
+#@ presscore
+msgctxt "theme-options"
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/options-general.php:184
+#@ presscore
+msgctxt "theme-options"
+msgid "Fullscreen "
+msgstr ""
+
+#: inc/admin/options-general.php:197
+#@ presscore
+msgctxt "theme-options"
+msgid "Responsiveness"
+msgstr ""
+
+#: inc/admin/options-general.php:201
+#@ presscore
+msgctxt "theme-options"
+msgid "Responsive layout"
+msgstr ""
+
+#: inc/admin/options-general.php:213
+#: inc/admin/options-general.php:217
+#@ presscore
+msgctxt "theme-options"
+msgid "High-DPI (retina) images"
+msgstr ""
+
+#: inc/admin/options-general.php:229
+#@ presscore
+msgctxt "theme-options"
+msgid "Color accent"
+msgstr ""
+
+#: inc/admin/options-general.php:234
+#@ presscore
+msgctxt "theme-options"
+msgid "Icons and text color"
+msgstr ""
+
+#: inc/admin/options-general.php:243
+#@ presscore
+msgctxt "theme-options"
+msgid "Accent color"
+msgstr ""
+
+#: inc/admin/options-general.php:259
+#@ presscore
+msgctxt "theme-options"
+msgid "Thick divider style"
+msgstr ""
+
+#: inc/admin/options-general.php:283
+#@ presscore
+msgctxt "theme-options"
+msgid "Thin divider style"
+msgstr ""
+
+#: inc/admin/options-general.php:299
+#@ presscore
+msgctxt "theme-options"
+msgid "Prev / Next buttons"
+msgstr ""
+
+#: inc/admin/options-general.php:303
+#@ presscore
+msgctxt "theme-options"
+msgid "Show in blog posts"
+msgstr ""
+
+#: inc/admin/options-general.php:312
+#@ presscore
+msgctxt "theme-options"
+msgid "Show in portfolio projects"
+msgstr ""
+
+#: inc/admin/options-general.php:324
+#: inc/admin/options-general.php:328
+#@ presscore
+msgctxt "theme-options"
+msgid "Show author info in blog posts"
+msgstr ""
+
+#: inc/admin/options-general.php:340
+#: inc/admin/options-general.php:344
+#@ presscore
+msgctxt "theme-options"
+msgid "Tracking code (e.g. Google analytics)"
+msgstr ""
+
+#: inc/admin/options-general.php:356
+#@ presscore
+msgctxt "theme-options"
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin/options-general.php:361
+#@ presscore
+msgctxt "theme-options"
+msgid "Upload image"
+msgstr ""
+
+#: inc/admin/options-general.php:372
+#@ presscore
+msgctxt "theme-options"
+msgid "Related posts settings"
+msgstr ""
+
+#: inc/admin/options-general.php:380
+#@ presscore
+msgctxt "theme-options"
+msgid "Blog posts"
+msgstr ""
+
+#: inc/admin/options-general.php:381
+#@ presscore
+msgctxt "theme-options"
+msgid "Show related posts"
+msgstr ""
+
+#: inc/admin/options-general.php:394
+#: inc/admin/options-general.php:433
+#@ presscore
+msgctxt "theme-options"
+msgid "Title"
+msgstr ""
+
+#: inc/admin/options-general.php:402
+#@ presscore
+msgctxt "theme-options"
+msgid "Maximum number of related posts"
+msgstr ""
+
+#: inc/admin/options-general.php:419
+#: inc/admin/options-general.php:604
+#@ presscore
+msgctxt "theme-options"
+msgid "Portfolio projects"
+msgstr ""
+
+#: inc/admin/options-general.php:420
+#@ presscore
+msgctxt "theme-options"
+msgid "Show related projects"
+msgstr ""
+
+#: inc/admin/options-general.php:441
+#@ presscore
+msgctxt "theme-options"
+msgid "Arrows"
+msgstr ""
+
+#: inc/admin/options-general.php:450
+#@ presscore
+msgctxt "theme-options"
+msgid "Maximum number of projects posts"
+msgstr ""
+
+#: inc/admin/options-general.php:460
+#@ presscore
+msgctxt "theme-options"
+msgid "Show titles"
+msgstr ""
+
+#: inc/admin/options-general.php:469
+#@ presscore
+msgctxt "theme-options"
+msgid "Show excerpts"
+msgstr ""
+
+#: inc/admin/options-general.php:478
+#@ presscore
+msgctxt "theme-options"
+msgid "Show links"
+msgstr ""
+
+#: inc/admin/options-general.php:487
+#@ presscore
+msgctxt "theme-options"
+msgid "Show \"Details\" button"
+msgstr ""
+
+#: inc/admin/options-general.php:496
+#@ presscore
+msgctxt "theme-options"
+msgid "Related posts height for fullwidth posts (px)"
+msgstr ""
+
+#: inc/admin/options-general.php:506
+#@ presscore
+msgctxt "theme-options"
+msgid "Related posts height for posts with sidebar (px)"
+msgstr ""
+
+#: inc/admin/options-general.php:521
+#@ presscore
+msgctxt "theme-options"
+msgid "Meta information settings"
+msgstr ""
+
+#: inc/admin/options-general.php:529
+#@ presscore
+msgctxt "theme-options"
+msgid "Blog & posts"
+msgstr ""
+
+#: inc/admin/options-general.php:530
+#: inc/admin/options-general.php:605
+#@ presscore
+msgctxt "theme-options"
+msgid "Show meta information"
+msgstr ""
+
+#: inc/admin/options-general.php:543
+#@ presscore
+msgctxt "theme-options"
+msgid "Post format"
+msgstr ""
+
+#: inc/admin/options-general.php:552
+#: inc/admin/options-general.php:618
+#@ presscore
+msgctxt "theme-options"
+msgid "Date"
+msgstr ""
+
+#: inc/admin/options-general.php:561
+#: inc/admin/options-general.php:627
+#@ presscore
+msgctxt "theme-options"
+msgid "Author"
+msgstr ""
+
+#: inc/admin/options-general.php:570
+#: inc/admin/options-general.php:636
+#@ presscore
+msgctxt "theme-options"
+msgid "Categories"
+msgstr ""
+
+#: inc/admin/options-general.php:579
+#: inc/admin/options-general.php:645
+#@ presscore
+msgctxt "theme-options"
+msgid "Comments"
+msgstr ""
+
+#: inc/admin/options-general.php:588
+#@ presscore
+msgctxt "theme-options"
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/options-general.php:659
+#@ presscore
+msgctxt "theme-options"
+msgid "WYSIWYG"
+msgstr ""
+
+#: inc/admin/options-general.php:663
+#@ presscore
+msgctxt "theme-options"
+msgid "Use visual columns builder in WYSIWYG"
+msgstr ""
+
+#: inc/admin/options-header.php:13
+#: inc/admin/options-header.php:14
+#: inc/admin/options-header.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Header"
+msgstr ""
+
+#: inc/admin/options-header.php:27
+#@ presscore
+msgctxt "theme-options"
+msgid "Background for regular header"
+msgstr ""
+
+#: inc/admin/options-header.php:66
+#: inc/admin/options-header.php:120
+#: inc/admin/options-slideshow.php:66
+#@ presscore
+msgctxt "theme-options"
+msgid "Choose / upload background image"
+msgstr ""
+
+#: inc/admin/options-header.php:81
+#@ presscore
+msgctxt "theme-options"
+msgid "Background for overlapping header"
+msgstr ""
+
+#: inc/admin/options-header.php:135
+#: inc/admin/options-header.php:150
+#@ presscore
+msgctxt "theme-options"
+msgid "Header layout"
+msgstr ""
+
+#: inc/admin/options-header.php:139
+#@ presscore
+msgctxt "theme-options"
+msgid "Background height (px)"
+msgstr ""
+
+#: inc/admin/options-header.php:169
+#@ presscore
+msgctxt "theme-options"
+msgid "Content area"
+msgstr ""
+
+#: inc/admin/options-header.php:177
+#@ presscore
+msgctxt "theme-options"
+msgid "Content area text color"
+msgstr ""
+
+#: inc/admin/options-header.php:187
+#@ presscore
+msgctxt "theme-options"
+msgid "Font"
+msgstr ""
+
+#: inc/admin/options-header.php:196
+#@ presscore
+msgctxt "theme-options"
+msgid "Font size"
+msgstr ""
+
+#: inc/admin/options-header.php:206
+#@ presscore
+msgctxt "theme-options"
+msgid "Uppercase "
+msgstr ""
+
+#: inc/admin/options-header.php:215
+#@ presscore
+msgctxt "theme-options"
+msgid "Line height"
+msgstr ""
+
+#: inc/admin/options-header.php:233
+#: inc/admin/options-header.php:337
+#@ presscore
+msgctxt "theme-options"
+msgid "Hover font color"
+msgstr ""
+
+#: inc/admin/options-header.php:242
+#@ presscore
+msgctxt "theme-options"
+msgid "Hover background"
+msgstr ""
+
+#: inc/admin/options-header.php:278
+#@ presscore
+msgctxt "theme-options"
+msgid "Menu background color"
+msgstr ""
+
+#: inc/admin/options-header.php:287
+#@ presscore
+msgctxt "theme-options"
+msgid "Menu background opacity"
+msgstr ""
+
+#: inc/admin/options-header.php:315
+#@ presscore
+msgctxt "theme-options"
+msgid "Submenu"
+msgstr ""
+
+#: inc/admin/options-header.php:319
+#@ presscore
+msgctxt "theme-options"
+msgid "Make parent menu items clickable"
+msgstr ""
+
+#: inc/admin/options-header.php:346
+#@ presscore
+msgctxt "theme-options"
+msgid "Submenu background color"
+msgstr ""
+
+#: inc/admin/options-header.php:355
+#@ presscore
+msgctxt "theme-options"
+msgid "Submenu background opacity"
+msgstr ""
+
+#: inc/admin/options-header.php:379
+#@ presscore
+msgctxt "theme-options"
+msgid "Submenu dividers color"
+msgstr ""
+
+#: inc/admin/options-header.php:388
+#@ presscore
+msgctxt "theme-options"
+msgid "Submenu dividers opacity"
+msgstr ""
+
+#: inc/admin/options-imagehoovers.php:13
+#: inc/admin/options-imagehoovers.php:14
+#@ presscore
+msgctxt "theme-options"
+msgid "Image Styling & Hovers"
+msgstr ""
+
+#: inc/admin/options-imagehoovers.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Image styling & hovers"
+msgstr ""
+
+#: inc/admin/options-imagehoovers.php:27
+#@ presscore
+msgctxt "theme-options"
+msgid "Hover color overlay"
+msgstr ""
+
+#: inc/admin/options-imagehoovers.php:43
+#@ presscore
+msgctxt "theme-options"
+msgid "Hover opacity"
+msgstr ""
+
+#: inc/admin/options-imagehoovers.php:61
+#: inc/admin/options-imagehoovers.php:65
+#@ presscore
+msgctxt "theme-options"
+msgid "Style"
+msgstr ""
+
+#: inc/admin/options-likebuttons.php:13
+#: inc/admin/options-likebuttons.php:14
+#@ presscore
+msgctxt "theme-options"
+msgid "Like Buttons"
+msgstr ""
+
+#: inc/admin/options-likebuttons.php:22
+#: inc/admin/options-socials.php:33
+#: inc/admin/options-socials.php:59
+#@ presscore
+msgctxt "theme-options"
+msgid "Like buttons"
+msgstr ""
+
+#: inc/admin/options-sidebar.php:13
+#: inc/admin/options-sidebar.php:14
+#: inc/admin/options-sidebar.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/options-sidebar.php:26
+#@ presscore
+msgctxt "theme-options"
+msgid "Please note that  settings from this page are also being used in pagination and categorization."
+msgstr ""
+
+#: inc/admin/options-skins.php:12
+#: inc/admin/options-skins.php:17
+#@ presscore
+msgctxt "theme-options"
+msgid "Skins"
+msgstr ""
+
+#: inc/admin/options-slideshow.php:13
+#: inc/admin/options-slideshow.php:14
+#: inc/admin/options-slideshow.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Slideshow"
+msgstr ""
+
+#: inc/admin/options-socials.php:11
+#: inc/admin/options-socials.php:13
+#@ presscore
+msgctxt "theme-options"
+msgid "Social links"
+msgstr ""
+
+#: inc/admin/options-socials.php:62
+#@ presscore
+msgctxt "backend like buttons"
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin/options-socials.php:63
+#@ presscore
+msgctxt "backend like buttons"
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/options-socials.php:64
+#@ presscore
+msgctxt "backend like buttons"
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/options-stripes.php:13
+#: inc/admin/options-stripes.php:14
+#@ presscore
+msgctxt "theme-options"
+msgid "Stripes"
+msgstr ""
+
+#: inc/admin/options-stripes.php:111
+#: inc/admin/options-topbar.php:97
+#@ presscore
+msgctxt "theme-options"
+msgid "Text color"
+msgstr ""
+
+#: inc/admin/options-topbar.php:13
+#: inc/admin/options-topbar.php:14
+#: inc/admin/options-topbar.php:22
+#@ presscore
+msgctxt "theme-options"
+msgid "Top Bar"
+msgstr ""
+
+#: inc/admin/options-topbar.php:27
+#: inc/admin/options-topbar.php:32
+#@ presscore
+msgctxt "theme-options"
+msgid "Show top bar"
+msgstr ""
+
+#: inc/admin/options-topbar.php:43
+#@ presscore
+msgctxt "theme-options"
+msgid "Top bar background"
+msgstr ""
+
+#: inc/admin/options-topbar.php:70
+#@ presscore
+msgctxt "theme-options"
+msgid "old Internet Explorer color"
+msgstr ""
+
+#: inc/admin/options-topbar.php:102
+#@ presscore
+msgctxt "theme-options"
+msgid "Text Color"
+msgstr ""
+
+#: inc/admin/options-topbar.php:113
+#@ presscore
+msgctxt "theme-options"
+msgid "Contact information"
+msgstr ""
+
+#: inc/admin/options-topbar.php:118
+#@ presscore
+msgctxt "theme-options"
+msgid "Show contact information"
+msgstr ""
+
+#: inc/admin/options-topbar.php:127
+#@ presscore
+msgctxt "theme-options"
+msgid "Icons color"
+msgstr ""
+
+#: inc/admin/options-topbar.php:136
+#@ presscore
+msgctxt "theme-options"
+msgid "Icons background color"
+msgstr ""
+
+#: inc/admin/options-topbar.php:145
+#@ presscore
+msgctxt "theme-options"
+msgid "Icons background opacity"
+msgstr ""
+
+#: inc/admin/options-topbar.php:185
+#@ presscore
+msgctxt "theme-options"
+msgid "Search"
+msgstr ""
+
+#: inc/admin/options-topbar.php:189
+#@ presscore
+msgctxt "theme-options"
+msgid "Show search"
+msgstr ""
+
+#: inc/admin/options-topbar.php:208
+#@ presscore
+msgctxt "theme-options"
+msgid "Opacity "
+msgstr ""
+
+#: inc/admin/options-topbar.php:232
+#@ presscore
+msgctxt "theme-options"
+msgid "Text & icon color"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:13
+#: inc/admin/options-widgetareas.php:14
+#@ presscore
+msgctxt "theme-options"
+msgid "Widget Areas"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:22
+#: inc/admin/options-widgetareas.php:27
+#@ presscore
+msgctxt "theme-options"
+msgid "Widget areas"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:36
+#@ presscore
+msgctxt "theme-options"
+msgid "Sidebar primary widget area"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:40
+#@ presscore
+msgctxt "theme-options"
+msgid "Footer primary widget area"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:48
+#: inc/extensions/options-framework/options-custom.php:33
+#@ presscore
+msgctxt "theme-options"
+msgid "Sidebar name"
+msgstr ""
+
+#: inc/admin/options-widgetareas.php:54
+#: inc/extensions/options-framework/options-custom.php:37
+#@ presscore
+msgctxt "theme-options"
+msgid "Sidebar description (optional)"
+msgstr ""
+
+#: inc/admin/options.php:13
+#@ presscore
+msgctxt "backend options"
+msgid "repeat"
+msgstr ""
+
+#: inc/admin/options.php:14
+#: inc/admin/options.php:21
+#@ presscore
+msgctxt "backend options"
+msgid "repeat-x"
+msgstr ""
+
+#: inc/admin/options.php:15
+#@ presscore
+msgctxt "backend options"
+msgid "repeat-y"
+msgstr ""
+
+#: inc/admin/options.php:16
+#: inc/admin/options.php:20
+#@ presscore
+msgctxt "backend options"
+msgid "no-repeat"
+msgstr ""
+
+#: inc/admin/options.php:25
+#: inc/admin/options.php:31
+#@ presscore
+msgctxt "backend options"
+msgid "center"
+msgstr ""
+
+#: inc/admin/options.php:26
+#@ presscore
+msgctxt "backend options"
+msgid "top"
+msgstr ""
+
+#: inc/admin/options.php:27
+#@ presscore
+msgctxt "backend options"
+msgid "bottom"
+msgstr ""
+
+#: inc/admin/options.php:32
+#@ presscore
+msgctxt "backend options"
+msgid "left"
+msgstr ""
+
+#: inc/admin/options.php:33
+#@ presscore
+msgctxt "backend options"
+msgid "right"
+msgstr ""
+
+#: inc/admin/options.php:37
+#@ presscore
+msgctxt "backend options"
+msgid "blue"
+msgstr ""
+
+#: inc/admin/options.php:38
+#@ presscore
+msgctxt "backend options"
+msgid "green"
+msgstr ""
+
+#: inc/admin/options.php:39
+#@ presscore
+msgctxt "backend options"
+msgid "orange"
+msgstr ""
+
+#: inc/admin/options.php:40
+#@ presscore
+msgctxt "backend options"
+msgid "purple"
+msgstr ""
+
+#: inc/admin/options.php:41
+#@ presscore
+msgctxt "backend options"
+msgid "yellow"
+msgstr ""
+
+#: inc/admin/options.php:42
+#@ presscore
+msgctxt "backend options"
+msgid "pink"
+msgstr ""
+
+#: inc/admin/options.php:43
+#@ presscore
+msgctxt "backend options"
+msgid "white"
+msgstr ""
+
+#: inc/admin/options.php:47
+#@ presscore
+msgctxt "backend options"
+msgid "on every page"
+msgstr ""
+
+#: inc/admin/options.php:48
+#@ presscore
+msgctxt "backend options"
+msgid "front page only"
+msgstr ""
+
+#: inc/admin/options.php:49
+#@ presscore
+msgctxt "backend options"
+msgid "everywhere except front page"
+msgstr ""
+
+#: inc/admin/options.php:50
+#: inc/admin/options.php:57
+#@ presscore
+msgctxt "backend options"
+msgid "nowhere"
+msgstr ""
+
+#: inc/admin/options.php:54
+#@ presscore
+msgctxt "backend options"
+msgid "everywhere"
+msgstr ""
+
+#: inc/admin/options.php:55
+#@ presscore
+msgctxt "backend options"
+msgid "only on homepage templates"
+msgstr ""
+
+#: inc/admin/options.php:56
+#@ presscore
+msgctxt "backend options"
+msgid "everywhere except homepage templates"
+msgstr ""
+
+#: inc/admin/options.php:61
+#@ presscore
+msgctxt "backend options"
+msgid "slice"
+msgstr ""
+
+#: inc/admin/options.php:62
+#@ presscore
+msgctxt "backend options"
+msgid "fade"
+msgstr ""
+
+#: inc/admin/options.php:69
+#@ presscore
+msgctxt "theme-options"
+msgid "Adress"
+msgstr ""
+
+#: inc/admin/options.php:73
+#@ presscore
+msgctxt "theme-options"
+msgid "Phone"
+msgstr ""
+
+#: inc/admin/options.php:77
+#@ presscore
+msgctxt "theme-options"
+msgid "Email"
+msgstr ""
+
+#: inc/admin/options.php:81
+#@ presscore
+msgctxt "theme-options"
+msgid "Skype"
+msgstr ""
+
+#: inc/admin/options.php:85
+#@ presscore
+msgctxt "theme-options"
+msgid "Working hours"
+msgstr ""
+
+#: inc/admin/options.php:89
+#@ presscore
+msgctxt "theme-options"
+msgid "Additional info"
+msgstr ""
+
+#: inc/admin/options.php:118
+#@ presscore
+msgctxt "theme-options"
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin/options.php:119
+#@ presscore
+msgctxt "theme-options"
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/options.php:124
+#@ presscore
+msgctxt "theme-options"
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/options.php:125
+#@ presscore
+msgctxt "theme-options"
+msgid "No"
+msgstr ""
+
+#: inc/classes/slider-swapper.class.php:67
+#@ presscore
+msgctxt "swapper slider"
+msgid "Details"
+msgstr ""
+
+#: inc/classes/widgets-posts-categories.class.php:21
+#, php-format
+#@ presscore
+msgctxt "widget categories"
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: inc/classes/widgets-posts-categories.class.php:42
+#, php-format
+#@ presscore
+msgctxt "widget categories"
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: inc/extensions/class-tgm-plugin-activation.php:1544
+#@ presscore
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/core-functions.php:1015
+#@ presscore
+msgctxt "mail"
+msgid "Name: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1016
+#@ presscore
+msgctxt "mail"
+msgid "E-mail: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1017
+#@ presscore
+msgctxt "mail"
+msgid "Telephone: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1018
+#@ presscore
+msgctxt "mail"
+msgid "Country: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1019
+#@ presscore
+msgctxt "mail"
+msgid "City: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1020
+#@ presscore
+msgctxt "mail"
+msgid "Company: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1021
+#@ presscore
+msgctxt "mail"
+msgid "Message: "
+msgstr ""
+
+#: inc/extensions/core-functions.php:1027
+#@ presscore
+msgctxt "feedback msg"
+msgid "Nonce do not match"
+msgstr ""
+
+#: inc/extensions/core-functions.php:1029
+#@ presscore
+msgctxt "feedback msg"
+msgid "Captcha filled incorrectly"
+msgstr ""
+
+#: inc/extensions/core-functions.php:1031
+#@ presscore
+msgctxt "feedback msg"
+msgid "Fill the captcha"
+msgstr ""
+
+#: inc/extensions/core-functions.php:1078
+#@ presscore
+msgctxt "feedback msg"
+msgid "Feedback has been sent to the administrator"
+msgstr ""
+
+#: inc/extensions/core-functions.php:1080
+#@ presscore
+msgctxt "feedback msg"
+msgid "The message has not been sent"
+msgstr ""
+
+#: inc/extensions/core-functions.php:1085
+#@ presscore
+msgctxt "feedback"
+msgid "Sorry, we suspect that you are bot"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:250
+#: inc/extensions/meta-box/inc/fields/image-advanced.php:71
+#@ presscore
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:384
+#: inc/extensions/meta-box/inc/fields/image-advanced.php:107
+#: inc/extensions/meta-box/inc/fields/image.php:142
+#@ presscore
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:385
+#: inc/extensions/meta-box/inc/fields/image-advanced.php:108
+#: inc/extensions/meta-box/inc/fields/image.php:143
+#@ presscore
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:530
+#@ presscore
+msgctxt "backend"
+msgid "no pictures"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:531
+#@ presscore
+msgctxt "backend"
+msgid "1 picture"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:532
+#@ presscore
+msgctxt "backend"
+msgid "% pictures"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:573
+#@ presscore
+msgctxt "backend"
+msgid "Categories: "
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:629
+#@ presscore
+msgctxt "backend"
+msgid "Date: "
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:638
+#@ presscore
+msgctxt "backend"
+msgid "Edit this item"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:640
+#@ presscore
+msgctxt "backend"
+msgid "Edit"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:646
+#@ presscore
+msgctxt "backend"
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:648
+#@ presscore
+msgctxt "backend"
+msgid "Trash"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:743
+#@ presscore
+msgctxt "backend"
+msgid "Images"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:763
+#@ presscore
+msgctxt "backend"
+msgid "You have:"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:782
+#@ presscore
+msgctxt "backend metabox"
+msgid "All"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:783
+#@ presscore
+msgctxt "backend metabox"
+msgid "Only"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:784
+#@ presscore
+msgctxt "backend metabox"
+msgid "All, except"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:788
+#@ presscore
+msgctxt "backend metabox"
+msgid "Albums"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:789
+#@ presscore
+msgctxt "backend metabox"
+msgid "Category"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:802
+#@ presscore
+msgctxt "backend metabox"
+msgid "Arrange by:"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:958
+#@ presscore
+msgctxt "metabox"
+msgid "width"
+msgstr ""
+
+#: inc/extensions/custom-meta-boxes/metabox-fields.php:964
+#@ presscore
+msgctxt "metabox"
+msgid "height"
+msgstr ""
+
+#: inc/extensions/dt-pagination.php:33
+#, php-format
+#@ presscore
+msgctxt "pagination defaults"
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: inc/extensions/dt-pagination.php:36
+#@ presscore
+msgctxt "pagination defaults"
+msgid "First"
+msgstr ""
+
+#: inc/extensions/dt-pagination.php:37
+#@ presscore
+msgctxt "pagination defaults"
+msgid "Last"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file-advanced.php:66
+#@ presscore
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file-advanced.php:102
+#: inc/extensions/meta-box/inc/fields/file.php:138
+#@ presscore
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file-advanced.php:103
+#: inc/extensions/meta-box/inc/fields/file.php:139
+#@ presscore
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file.php:84
+#@ presscore
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/file.php:85
+#@ presscore
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/image.php:76
+#: inc/extensions/meta-box/inc/fields/thickbox-image.php:35
+#@ presscore
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/image.php:77
+#@ presscore
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/plupload-image.php:104
+#@ presscore
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/plupload-image.php:105
+#@ presscore
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/plupload-image.php:106
+#@ presscore
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: inc/extensions/meta-box/inc/fields/plupload-image.php:181
+#@ presscore
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: inc/extensions/options-framework/options-custom.php:41
+#@ presscore
+msgctxt "theme-options"
+msgid "Update"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:274
+#@ presscore
+msgctxt "backend"
+msgid "Theme Options"
+msgstr ""
+
+#: inc/extensions/options-framework/options-framework.php:555
+#@ presscore
+msgctxt "backend"
+msgid "Options saved."
+msgstr ""
+
+#: inc/extensions/options-framework/options-interface.php:593
+#: inc/extensions/options-framework/options-interface.php:770
+#@ presscore
+msgctxt "backend fields"
+msgid "Delete"
+msgstr ""
+
+#: inc/extensions/options-framework/options-interface.php:662
+#@ presscore
+msgctxt "backend fields"
+msgid "Edit Widgetized Area"
+msgstr ""
+
+#: inc/extensions/options-framework/options-interface.php:722
+#@ presscore
+msgctxt "backend fields button"
+msgid "Add"
+msgstr ""
+
+#: inc/extensions/options-framework/options-interface.php:787
+#@ presscore
+msgctxt "theme-options"
+msgid "no title"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:405
+#@ presscore
+msgctxt "theme-options"
+msgid "no repeat"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:406
+#@ presscore
+msgctxt "theme-options"
+msgid "repeat x"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:407
+#@ presscore
+msgctxt "theme-options"
+msgid "repeat y"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:408
+#@ presscore
+msgctxt "theme-options"
+msgid "repeat"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:421
+#@ presscore
+msgctxt "theme-options"
+msgid "top"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:422
+#@ presscore
+msgctxt "theme-options"
+msgid "bottom"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:423
+#: inc/extensions/options-framework/options-sanitize.php:438
+#@ presscore
+msgctxt "theme-options"
+msgid "center"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:436
+#@ presscore
+msgctxt "theme-options"
+msgid "left"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:437
+#@ presscore
+msgctxt "theme-options"
+msgid "right"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:451
+#@ presscore
+msgctxt "theme-options"
+msgid "Top Left"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:452
+#@ presscore
+msgctxt "theme-options"
+msgid "Top Center"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:453
+#@ presscore
+msgctxt "theme-options"
+msgid "Top Right"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:454
+#@ presscore
+msgctxt "theme-options"
+msgid "Middle Left"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:455
+#@ presscore
+msgctxt "theme-options"
+msgid "Middle Center"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:456
+#@ presscore
+msgctxt "theme-options"
+msgid "Middle Right"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:457
+#@ presscore
+msgctxt "theme-options"
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:458
+#@ presscore
+msgctxt "theme-options"
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:459
+#@ presscore
+msgctxt "theme-options"
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:472
+#@ presscore
+msgctxt "theme-options"
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:473
+#@ presscore
+msgctxt "theme-options"
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:555
+#@ presscore
+msgctxt "theme-options"
+msgid "Normal"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:556
+#@ presscore
+msgctxt "theme-options"
+msgid "Italic"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:557
+#@ presscore
+msgctxt "theme-options"
+msgid "Bold"
+msgstr ""
+
+#: inc/extensions/options-framework/options-sanitize.php:558
+#@ presscore
+msgctxt "theme-options"
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/helpers.php:344
+#@ presscore
+msgctxt "fullscreen slider two"
+msgid "Details"
+msgstr ""
+
+#: inc/helpers.php:801
+#@ presscore
+msgctxt "blog small list"
+msgid "No title"
+msgstr ""
+
+#: inc/helpers.php:1501
+#@ presscore
+msgctxt "details button"
+msgid "Details"
+msgstr ""
+
+#: inc/helpers.php:1539
+#@ presscore
+msgctxt "edit button"
+msgid "Edit"
+msgstr ""
+
+#: inc/helpers.php:1606
+#@ presscore
+msgctxt "frontend post meta"
+msgid "Posted on"
+msgstr ""
+
+#: inc/helpers.php:1629
+#, php-format
+#@ presscore
+msgctxt "frontend post meta"
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/helpers.php:1630
+#@ presscore
+msgctxt "frontend post meta"
+msgid "By "
+msgstr ""
+
+#: inc/helpers.php:1743
+#@ presscore
+msgctxt "breadcrumbs"
+msgid "Home"
+msgstr ""
+
+#: inc/helpers.php:1787
+#@ presscore
+msgctxt "breeadcrumbs"
+msgid "You are here:"
+msgstr ""
+
+#: inc/helpers.php:1839
+#@ presscore
+msgctxt "share buttons"
+msgid "share"
+msgstr ""
+
+#: inc/helpers.php:1845
+#@ presscore
+msgctxt "share buttons"
+msgid "tweet"
+msgstr ""
+
+#: inc/helpers.php:1877
+#@ presscore
+msgctxt "share buttons"
+msgid "pin it"
+msgstr ""
+
+#: inc/helpers.php:2079
+#@ presscore
+msgctxt "team link"
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers.php:2080
+#@ presscore
+msgctxt "team link"
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/helpers.php:2081
+#@ presscore
+msgctxt "team link"
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:2082
+#@ presscore
+msgctxt "team link"
+msgid "Behance"
+msgstr ""
+
+#: inc/helpers.php:2083
+#@ presscore
+msgctxt "team link"
+msgid "Dribbble"
+msgstr ""
+
+#: inc/helpers.php:2084
+#@ presscore
+msgctxt "team link"
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers.php:2085
+#@ presscore
+msgctxt "team link"
+msgid "Personal blog / website"
+msgstr ""
+
+#: inc/helpers.php:2086
+#@ presscore
+msgctxt "team link"
+msgid "E-mail"
+msgstr ""
+
+#: inc/helpers.php:2105
+#@ presscore
+msgctxt "theme-options"
+msgid "H1"
+msgstr ""
+
+#: inc/helpers.php:2112
+#@ presscore
+msgctxt "theme-options"
+msgid "H2"
+msgstr ""
+
+#: inc/helpers.php:2119
+#@ presscore
+msgctxt "theme-options"
+msgid "H3"
+msgstr ""
+
+#: inc/helpers.php:2126
+#@ presscore
+msgctxt "theme-options"
+msgid "H4"
+msgstr ""
+
+#: inc/helpers.php:2133
+#@ presscore
+msgctxt "theme-options"
+msgid "H5"
+msgstr ""
+
+#: inc/helpers.php:2140
+#@ presscore
+msgctxt "theme-options"
+msgid "H6"
+msgstr ""
+
+#: inc/helpers.php:2162
+#@ presscore
+msgctxt "theme-options"
+msgid "Small buttons"
+msgstr ""
+
+#: inc/helpers.php:2169
+#@ presscore
+msgctxt "theme-options"
+msgid "Medium buttons"
+msgstr ""
+
+#: inc/helpers.php:2176
+#@ presscore
+msgctxt "theme-options"
+msgid "Big buttons"
+msgstr ""
+
+#: inc/helpers.php:2195
+#@ presscore
+msgctxt "theme-options"
+msgid "None"
+msgstr ""
+
+#: inc/helpers.php:2196
+#@ presscore
+msgctxt "theme-options"
+msgid "Grayscale"
+msgstr ""
+
+#: inc/helpers.php:2197
+#@ presscore
+msgctxt "theme-options"
+msgid "Grayscale with color hovers"
+msgstr ""
+
+#: inc/helpers.php:2211
+#@ presscore
+msgctxt "theme-options"
+msgid "Wide"
+msgstr ""
+
+#: inc/helpers.php:2212
+#@ presscore
+msgctxt "theme-options"
+msgid "Boxed"
+msgstr ""
+
+#: inc/helpers.php:2243
+#@ presscore
+msgctxt "theme-options"
+msgid "Social buttons in blog posts"
+msgstr ""
+
+#: inc/helpers.php:2244
+#@ presscore
+msgctxt "theme-options"
+msgid "Social buttons in portfolio projects"
+msgstr ""
+
+#: inc/helpers.php:2245
+#@ presscore
+msgctxt "theme-options"
+msgid "Social buttons in media (photos and videos)"
+msgstr ""
+
+#: inc/helpers.php:2260
+#@ presscore
+msgctxt "theme-options"
+msgid "Stripe 1"
+msgstr ""
+
+#: inc/helpers.php:2285
+#@ presscore
+msgctxt "theme-options"
+msgid "Stripe 2"
+msgstr ""
+
+#: inc/helpers.php:2310
+#@ presscore
+msgctxt "theme-options"
+msgid "Stripe 3"
+msgstr ""
+
+#: inc/helpers.php:2619
+#@ presscore
+msgctxt "category list"
+msgid "All posts"
+msgstr ""
+
+#: inc/helpers.php:2620
+#@ presscore
+msgctxt "category list"
+msgid "View all"
+msgstr ""
+
+#: inc/helpers.php:2652
+#@ presscore
+msgctxt "category list"
+msgid "Other posts"
+msgstr ""
+
+#: inc/helpers.php:2653
+#@ presscore
+msgctxt "category list"
+msgid "Other"
+msgstr ""
+
+#: inc/post-types.php:26
+#: inc/post-types.php:27
+#: inc/post-types.php:37
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post-types.php:28
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:29
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-types.php:30
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-types.php:31
+#@ presscore
+msgctxt "backend portfolio"
+msgid "New Item"
+msgstr ""
+
+#: inc/post-types.php:32
+#@ presscore
+msgctxt "backend portfolio"
+msgid "View Item"
+msgstr ""
+
+#: inc/post-types.php:33
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Search Items"
+msgstr ""
+
+#: inc/post-types.php:34
+#@ presscore
+msgctxt "backend portfolio"
+msgid "No items found"
+msgstr ""
+
+#: inc/post-types.php:35
+#@ presscore
+msgctxt "backend portfolio"
+msgid "No items found in Trash"
+msgstr ""
+
+#: inc/post-types.php:65
+#: inc/post-types.php:68
+#: inc/post-types.php:75
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:66
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Category"
+msgstr ""
+
+#: inc/post-types.php:67
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Search in Category"
+msgstr ""
+
+#: inc/post-types.php:69
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types.php:70
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types.php:71
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types.php:72
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types.php:73
+#@ presscore
+msgctxt "backend portfolio"
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types.php:74
+#@ presscore
+msgctxt "backend portfolio"
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post-types.php:111
+#: inc/post-types.php:112
+#: inc/post-types.php:122
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types.php:113
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:114
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-types.php:115
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-types.php:116
+#@ presscore
+msgctxt "backend testimonials"
+msgid "New Item"
+msgstr ""
+
+#: inc/post-types.php:117
+#@ presscore
+msgctxt "backend testimonials"
+msgid "View Item"
+msgstr ""
+
+#: inc/post-types.php:118
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Search Items"
+msgstr ""
+
+#: inc/post-types.php:119
+#@ presscore
+msgctxt "backend testimonials"
+msgid "No items found"
+msgstr ""
+
+#: inc/post-types.php:120
+#@ presscore
+msgctxt "backend testimonials"
+msgid "No items found in Trash"
+msgstr ""
+
+#: inc/post-types.php:150
+#: inc/post-types.php:153
+#: inc/post-types.php:160
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:151
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Category"
+msgstr ""
+
+#: inc/post-types.php:152
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Search in Category"
+msgstr ""
+
+#: inc/post-types.php:154
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types.php:155
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types.php:156
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types.php:157
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types.php:158
+#@ presscore
+msgctxt "backend testimonials"
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types.php:159
+#@ presscore
+msgctxt "backend testimonials"
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post-types.php:317
+#: inc/post-types.php:318
+#: inc/post-types.php:328
+#@ presscore
+msgctxt "backend team"
+msgid "Team"
+msgstr ""
+
+#: inc/post-types.php:319
+#@ presscore
+msgctxt "backend team"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:320
+#@ presscore
+msgctxt "backend team"
+msgid "Add New Teammate"
+msgstr ""
+
+#: inc/post-types.php:321
+#@ presscore
+msgctxt "backend team"
+msgid "Edit Teammate"
+msgstr ""
+
+#: inc/post-types.php:322
+#@ presscore
+msgctxt "backend team"
+msgid "New Teammate"
+msgstr ""
+
+#: inc/post-types.php:323
+#@ presscore
+msgctxt "backend team"
+msgid "View Teammate"
+msgstr ""
+
+#: inc/post-types.php:324
+#@ presscore
+msgctxt "backend team"
+msgid "Search Teammates"
+msgstr ""
+
+#: inc/post-types.php:325
+#@ presscore
+msgctxt "backend team"
+msgid "No teammates found"
+msgstr ""
+
+#: inc/post-types.php:326
+#@ presscore
+msgctxt "backend team"
+msgid "No Teammates found in Trash"
+msgstr ""
+
+#: inc/post-types.php:356
+#: inc/post-types.php:359
+#: inc/post-types.php:366
+#@ presscore
+msgctxt "backend team"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:357
+#@ presscore
+msgctxt "backend team"
+msgid "Category"
+msgstr ""
+
+#: inc/post-types.php:358
+#@ presscore
+msgctxt "backend team"
+msgid "Search in Category"
+msgstr ""
+
+#: inc/post-types.php:360
+#@ presscore
+msgctxt "backend team"
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types.php:361
+#@ presscore
+msgctxt "backend team"
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types.php:362
+#@ presscore
+msgctxt "backend team"
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types.php:363
+#@ presscore
+msgctxt "backend team"
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types.php:364
+#@ presscore
+msgctxt "backend team"
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types.php:365
+#@ presscore
+msgctxt "backend team"
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post-types.php:524
+#: inc/post-types.php:535
+#@ presscore
+msgctxt "backend logos"
+msgid "Partners, Clients, etc."
+msgstr ""
+
+#: inc/post-types.php:525
+#@ presscore
+msgctxt "backend logos"
+msgid "Item"
+msgstr ""
+
+#: inc/post-types.php:526
+#@ presscore
+msgctxt "backend logos"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:527
+#@ presscore
+msgctxt "backend logos"
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-types.php:528
+#@ presscore
+msgctxt "backend logos"
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-types.php:529
+#@ presscore
+msgctxt "backend logos"
+msgid "New Item"
+msgstr ""
+
+#: inc/post-types.php:530
+#@ presscore
+msgctxt "backend logos"
+msgid "View Item"
+msgstr ""
+
+#: inc/post-types.php:531
+#@ presscore
+msgctxt "backend logos"
+msgid "Search Items"
+msgstr ""
+
+#: inc/post-types.php:532
+#@ presscore
+msgctxt "backend logos"
+msgid "No items found"
+msgstr ""
+
+#: inc/post-types.php:533
+#@ presscore
+msgctxt "backend logos"
+msgid "No items found in Trash"
+msgstr ""
+
+#: inc/post-types.php:563
+#: inc/post-types.php:566
+#: inc/post-types.php:573
+#@ presscore
+msgctxt "backend partners"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:564
+#@ presscore
+msgctxt "backend partners"
+msgid "Category"
+msgstr ""
+
+#: inc/post-types.php:565
+#@ presscore
+msgctxt "backend partners"
+msgid "Search in Category"
+msgstr ""
+
+#: inc/post-types.php:567
+#@ presscore
+msgctxt "backend partners"
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types.php:568
+#@ presscore
+msgctxt "backend partners"
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types.php:569
+#@ presscore
+msgctxt "backend partners"
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types.php:570
+#@ presscore
+msgctxt "backend partners"
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types.php:571
+#@ presscore
+msgctxt "backend partners"
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types.php:572
+#@ presscore
+msgctxt "backend partners"
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post-types.php:609
+#: inc/post-types.php:620
+#@ presscore
+msgctxt "backend albums"
+msgid "Photo Albums"
+msgstr ""
+
+#: inc/post-types.php:610
+#@ presscore
+msgctxt "backend albums"
+msgid "Photo Album"
+msgstr ""
+
+#: inc/post-types.php:611
+#: inc/post-types.php:899
+#@ presscore
+msgctxt "backend albums"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:612
+#@ presscore
+msgctxt "backend albums"
+msgid "Add New Album"
+msgstr ""
+
+#: inc/post-types.php:613
+#@ presscore
+msgctxt "backend albums"
+msgid "Edit Album"
+msgstr ""
+
+#: inc/post-types.php:614
+#@ presscore
+msgctxt "backend albums"
+msgid "New Album"
+msgstr ""
+
+#: inc/post-types.php:615
+#@ presscore
+msgctxt "backend albums"
+msgid "View Album"
+msgstr ""
+
+#: inc/post-types.php:616
+#@ presscore
+msgctxt "backend albums"
+msgid "Search for Albums"
+msgstr ""
+
+#: inc/post-types.php:617
+#@ presscore
+msgctxt "backend albums"
+msgid "No Albums Found"
+msgstr ""
+
+#: inc/post-types.php:618
+#@ presscore
+msgctxt "backend albums"
+msgid "No Albums Found in Trash"
+msgstr ""
+
+#: inc/post-types.php:648
+#: inc/post-types.php:651
+#: inc/post-types.php:658
+#@ presscore
+msgctxt "backend albums"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:649
+#@ presscore
+msgctxt "backend albums"
+msgid "Category"
+msgstr ""
+
+#: inc/post-types.php:650
+#@ presscore
+msgctxt "backend albums"
+msgid "Search in Category"
+msgstr ""
+
+#: inc/post-types.php:652
+#@ presscore
+msgctxt "backend albums"
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types.php:653
+#@ presscore
+msgctxt "backend albums"
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types.php:654
+#@ presscore
+msgctxt "backend albums"
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types.php:655
+#@ presscore
+msgctxt "backend albums"
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types.php:656
+#@ presscore
+msgctxt "backend albums"
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types.php:657
+#@ presscore
+msgctxt "backend albums"
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post-types.php:897
+#: inc/post-types.php:908
+#@ presscore
+msgctxt "backend albums"
+msgid "Slideshows"
+msgstr ""
+
+#: inc/post-types.php:898
+#@ presscore
+msgctxt "backend albums"
+msgid "Slider"
+msgstr ""
+
+#: inc/post-types.php:900
+#@ presscore
+msgctxt "backend albums"
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/post-types.php:901
+#@ presscore
+msgctxt "backend albums"
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/post-types.php:902
+#@ presscore
+msgctxt "backend albums"
+msgid "New Slider"
+msgstr ""
+
+#: inc/post-types.php:903
+#@ presscore
+msgctxt "backend albums"
+msgid "View Slider"
+msgstr ""
+
+#: inc/post-types.php:904
+#@ presscore
+msgctxt "backend albums"
+msgid "Search for Slideshow"
+msgstr ""
+
+#: inc/post-types.php:905
+#@ presscore
+msgctxt "backend albums"
+msgid "No Slideshow Found"
+msgstr ""
+
+#: inc/post-types.php:906
+#@ presscore
+msgctxt "backend albums"
+msgid "No Slideshow Found in Trash"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:70
+#: inc/widgets/contact-info.php:40
+#@ presscore
+msgctxt "widget"
+msgid "Facebook"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:71
+#: inc/widgets/contact-info.php:41
+#@ presscore
+msgctxt "widget"
+msgid "Twitter"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:72
+#: inc/widgets/contact-info.php:42
+#@ presscore
+msgctxt "widget"
+msgid "Google+"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:73
+#: inc/widgets/contact-info.php:43
+#@ presscore
+msgctxt "widget"
+msgid "Dribbble"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:74
+#: inc/widgets/contact-info.php:44
+#@ presscore
+msgctxt "widget"
+msgid "YouTube"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:75
+#: inc/widgets/contact-info.php:45
+#@ presscore
+msgctxt "widget"
+msgid "Rss"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:76
+#: inc/widgets/contact-info.php:46
+#@ presscore
+msgctxt "widget"
+msgid "Delicious"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:77
+#: inc/widgets/contact-info.php:47
+#@ presscore
+msgctxt "widget"
+msgid "Flickr"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:78
+#: inc/widgets/contact-info.php:48
+#@ presscore
+msgctxt "widget"
+msgid "Forrst"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:79
+#: inc/widgets/contact-info.php:49
+#@ presscore
+msgctxt "widget"
+msgid "Lastfm"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:80
+#: inc/widgets/contact-info.php:50
+#@ presscore
+msgctxt "widget"
+msgid "Linkedin"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:81
+#: inc/widgets/contact-info.php:51
+#@ presscore
+msgctxt "widget"
+msgid "Vimeo"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:82
+#: inc/widgets/contact-info.php:52
+#@ presscore
+msgctxt "widget"
+msgid "Tumblr"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:83
+#: inc/widgets/contact-info.php:53
+#@ presscore
+msgctxt "widget"
+msgid "Pinterest"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:84
+#: inc/widgets/contact-info.php:54
+#@ presscore
+msgctxt "widget"
+msgid "Deviantart"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:85
+#: inc/widgets/contact-info.php:55
+#@ presscore
+msgctxt "widget"
+msgid "Skype"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:86
+#: inc/widgets/contact-info.php:56
+#@ presscore
+msgctxt "widget"
+msgid "Github"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:87
+#: inc/widgets/contact-info.php:57
+#@ presscore
+msgctxt "widget"
+msgid "Instagram"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:88
+#: inc/widgets/contact-info.php:58
+#@ presscore
+msgctxt "widget"
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:89
+#: inc/widgets/contact-info.php:59
+#@ presscore
+msgctxt "widget"
+msgid "Behance"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:90
+#: inc/widgets/contact-info.php:60
+#@ presscore
+msgctxt "widget"
+msgid "Mail"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:91
+#: inc/widgets/contact-info.php:61
+#@ presscore
+msgctxt "widget"
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:67
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:70
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:74
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:78
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:84
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:89
+#, php-format
+#@ presscore
+msgctxt "archive template title"
+msgid "Portfolio Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:92
+#@ presscore
+msgctxt "archive template title"
+msgid "Archives:"
+msgstr ""
+
+#: inc/template-tags.php:98
+#@ presscore
+msgctxt "index title"
+msgid "Page not found"
+msgstr ""
+
+#: inc/template-tags.php:100
+#@ presscore
+msgctxt "index title"
+msgid "Blog"
+msgstr ""
+
+#: inc/template-tags.php:506
+#@ presscore
+msgctxt "header slideshow"
+msgid "details"
+msgstr ""
+
+#: inc/widgets/accordion.php:26
+#: inc/widgets/accordion.php:34
+#@ presscore
+msgctxt "widget"
+msgid "Accordion"
+msgstr ""
+
+#: inc/widgets/accordion.php:97
+#: inc/widgets/blog-categories.php:110
+#: inc/widgets/blog-posts.php:142
+#: inc/widgets/contact-form.php:220
+#: inc/widgets/contact-info.php:158
+#: inc/widgets/custom-menu-1.php:101
+#: inc/widgets/custom-menu-2.php:103
+#: inc/widgets/flickr.php:287
+#: inc/widgets/photos.php:196
+#: inc/widgets/portfolio.php:173
+#: inc/widgets/progress-bars.php:119
+#: inc/widgets/team.php:144
+#: inc/widgets/testimonials-list.php:137
+#: inc/widgets/testimonials-slider.php:141
+#@ presscore
+msgctxt "widget"
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/accordion.php:101
+#: inc/widgets/contact-form.php:229
+#: inc/widgets/contact-info.php:167
+#: inc/widgets/progress-bars.php:128
+#@ presscore
+msgctxt "widget"
+msgid "Fields:"
+msgstr ""
+
+#: inc/widgets/accordion.php:117
+#: inc/widgets/contact-info.php:183
+#: inc/widgets/progress-bars.php:146
+#@ presscore
+msgctxt "widget"
+msgid "Add"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:31
+#: inc/widgets/blog-categories.php:36
+#@ presscore
+msgctxt "widget"
+msgid "Blog categories"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:116
+#: inc/widgets/blog-posts.php:147
+#: inc/widgets/logos.php:149
+#: inc/widgets/portfolio.php:178
+#: inc/widgets/team.php:149
+#: inc/widgets/testimonials-list.php:142
+#: inc/widgets/testimonials-slider.php:146
+#@ presscore
+msgctxt "widget"
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:121
+#: inc/widgets/blog-posts.php:152
+#: inc/widgets/logos.php:154
+#: inc/widgets/photos.php:206
+#: inc/widgets/portfolio.php:183
+#: inc/widgets/team.php:154
+#: inc/widgets/testimonials-list.php:147
+#: inc/widgets/testimonials-slider.php:151
+#@ presscore
+msgctxt "widget"
+msgid "All"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:122
+#: inc/widgets/blog-posts.php:153
+#: inc/widgets/logos.php:155
+#: inc/widgets/photos.php:207
+#: inc/widgets/portfolio.php:184
+#: inc/widgets/team.php:155
+#: inc/widgets/testimonials-list.php:148
+#: inc/widgets/testimonials-slider.php:152
+#@ presscore
+msgctxt "widget"
+msgid "Only"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:123
+#: inc/widgets/blog-posts.php:154
+#: inc/widgets/logos.php:156
+#: inc/widgets/photos.php:208
+#: inc/widgets/portfolio.php:185
+#: inc/widgets/team.php:156
+#: inc/widgets/testimonials-list.php:149
+#: inc/widgets/testimonials-slider.php:153
+#@ presscore
+msgctxt "widget"
+msgid "Except"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:31
+#: inc/widgets/blog-posts.php:36
+#@ presscore
+msgctxt "widget"
+msgid "Blog posts"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:131
+#: inc/widgets/logos.php:133
+#: inc/widgets/photos.php:185
+#: inc/widgets/portfolio.php:162
+#: inc/widgets/team.php:133
+#: inc/widgets/testimonials-list.php:126
+#: inc/widgets/testimonials-slider.php:130
+#@ presscore
+msgctxt "widget"
+msgid "Order by ID"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:132
+#: inc/widgets/logos.php:134
+#: inc/widgets/photos.php:186
+#: inc/widgets/portfolio.php:163
+#: inc/widgets/team.php:134
+#: inc/widgets/testimonials-list.php:127
+#: inc/widgets/testimonials-slider.php:131
+#@ presscore
+msgctxt "widget"
+msgid "Order by author"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:133
+#: inc/widgets/logos.php:135
+#: inc/widgets/photos.php:187
+#: inc/widgets/portfolio.php:164
+#: inc/widgets/team.php:135
+#: inc/widgets/testimonials-list.php:128
+#: inc/widgets/testimonials-slider.php:132
+#@ presscore
+msgctxt "widget"
+msgid "Order by title"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:134
+#: inc/widgets/logos.php:136
+#: inc/widgets/photos.php:188
+#: inc/widgets/portfolio.php:165
+#: inc/widgets/team.php:136
+#: inc/widgets/testimonials-list.php:129
+#: inc/widgets/testimonials-slider.php:133
+#@ presscore
+msgctxt "widget"
+msgid "Order by date"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:135
+#: inc/widgets/logos.php:137
+#: inc/widgets/photos.php:189
+#: inc/widgets/portfolio.php:166
+#: inc/widgets/team.php:137
+#: inc/widgets/testimonials-list.php:130
+#: inc/widgets/testimonials-slider.php:134
+#@ presscore
+msgctxt "widget"
+msgid "Order by modified"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:136
+#: inc/widgets/logos.php:138
+#: inc/widgets/photos.php:190
+#: inc/widgets/portfolio.php:167
+#: inc/widgets/team.php:138
+#: inc/widgets/testimonials-list.php:131
+#: inc/widgets/testimonials-slider.php:135
+#@ presscore
+msgctxt "widget"
+msgid "Order by rand"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:137
+#: inc/widgets/logos.php:139
+#: inc/widgets/photos.php:191
+#: inc/widgets/portfolio.php:168
+#: inc/widgets/team.php:139
+#: inc/widgets/testimonials-list.php:132
+#: inc/widgets/testimonials-slider.php:136
+#@ presscore
+msgctxt "widget"
+msgid "Order by menu"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:174
+#: inc/widgets/portfolio.php:205
+#@ presscore
+msgctxt "widget"
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:179
+#: inc/widgets/logos.php:181
+#: inc/widgets/photos.php:233
+#: inc/widgets/portfolio.php:210
+#: inc/widgets/team.php:181
+#: inc/widgets/testimonials-list.php:174
+#: inc/widgets/testimonials-slider.php:178
+#@ presscore
+msgctxt "widget"
+msgid "Sort by:"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:189
+#: inc/widgets/logos.php:191
+#: inc/widgets/photos.php:243
+#: inc/widgets/portfolio.php:220
+#: inc/widgets/team.php:191
+#: inc/widgets/testimonials-list.php:184
+#: inc/widgets/testimonials-slider.php:188
+#@ presscore
+msgctxt "widget"
+msgid "Ascending"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:192
+#: inc/widgets/logos.php:194
+#: inc/widgets/photos.php:246
+#: inc/widgets/portfolio.php:223
+#: inc/widgets/team.php:194
+#: inc/widgets/testimonials-list.php:187
+#: inc/widgets/testimonials-slider.php:191
+#@ presscore
+msgctxt "widget"
+msgid "Descending"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:197
+#@ presscore
+msgctxt "widget"
+msgid "Show featured images"
+msgstr ""
+
+#: inc/widgets/contact-form.php:33
+#: inc/widgets/contact-form.php:38
+#@ presscore
+msgctxt "widget"
+msgid "Contact form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:44
+#@ presscore
+msgctxt "widget"
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/contact-form.php:45
+#@ presscore
+msgctxt "widget"
+msgid "E-mail"
+msgstr ""
+
+#: inc/widgets/contact-form.php:46
+#@ presscore
+msgctxt "widget"
+msgid "Telephone"
+msgstr ""
+
+#: inc/widgets/contact-form.php:47
+#@ presscore
+msgctxt "widget"
+msgid "Country"
+msgstr ""
+
+#: inc/widgets/contact-form.php:48
+#@ presscore
+msgctxt "widget"
+msgid "City"
+msgstr ""
+
+#: inc/widgets/contact-form.php:49
+#@ presscore
+msgctxt "widget"
+msgid "Company"
+msgstr ""
+
+#: inc/widgets/contact-form.php:50
+#@ presscore
+msgctxt "widget"
+msgid "Message"
+msgstr ""
+
+#: inc/widgets/contact-form.php:172
+#@ presscore
+msgctxt "widget"
+msgid "Submit"
+msgstr ""
+
+#: inc/widgets/contact-form.php:178
+#@ presscore
+msgctxt "widget"
+msgid "clear"
+msgstr ""
+
+#: inc/widgets/contact-form.php:179
+#@ presscore
+msgctxt "widget"
+msgid "submit"
+msgstr ""
+
+#: inc/widgets/contact-form.php:225
+#: inc/widgets/contact-info.php:163
+#: inc/widgets/progress-bars.php:124
+#@ presscore
+msgctxt "widget"
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/contact-form.php:240
+#@ presscore
+msgctxt "widget"
+msgid "on"
+msgstr ""
+
+#: inc/widgets/contact-form.php:241
+#@ presscore
+msgctxt "widget"
+msgid "off"
+msgstr ""
+
+#: inc/widgets/contact-form.php:242
+#@ presscore
+msgctxt "widget"
+msgid "required"
+msgstr ""
+
+#: inc/widgets/contact-form.php:248
+#@ presscore
+msgctxt "widget"
+msgid "Message field height (in lines)"
+msgstr ""
+
+#: inc/widgets/contact-form.php:252
+#@ presscore
+msgctxt "widget"
+msgid "Send mail to:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:30
+#: inc/widgets/contact-info.php:35
+#@ presscore
+msgctxt "widget"
+msgid "Contact info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:112
+#@ presscore
+msgctxt "widget"
+msgid "Find us on:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:187
+#@ presscore
+msgctxt "widget"
+msgid "Social links:"
+msgstr ""
+
+#: inc/widgets/custom-menu-1.php:26
+#: inc/widgets/custom-menu-1.php:31
+#@ presscore
+msgctxt "widget"
+msgid "Custom menu style 1"
+msgstr ""
+
+#: inc/widgets/custom-menu-1.php:106
+#: inc/widgets/custom-menu-2.php:108
+#@ presscore
+msgctxt "widget"
+msgid "Choose custom menu:"
+msgstr ""
+
+#: inc/widgets/custom-menu-2.php:26
+#: inc/widgets/custom-menu-2.php:31
+#@ presscore
+msgctxt "widget"
+msgid "Custom menu style 2"
+msgstr ""
+
+#: inc/widgets/flickr.php:288
+#@ presscore
+msgctxt "widget"
+msgid "Flickr Latest RSS URL:"
+msgstr ""
+
+#: inc/widgets/flickr.php:290
+#@ presscore
+msgctxt "widget"
+msgid "How many items?"
+msgstr ""
+
+#: inc/widgets/flickr.php:292
+#@ presscore
+msgctxt "widget"
+msgid "Filter by tags (comma seperated):"
+msgstr ""
+
+#: inc/widgets/flickr.php:294
+#@ presscore
+msgctxt "widget"
+msgid "Random pick"
+msgstr ""
+
+#: inc/widgets/logos.php:31
+#: inc/widgets/logos.php:36
+#@ presscore
+msgctxt "widget"
+msgid "Partners & clients"
+msgstr ""
+
+#: inc/widgets/logos.php:144
+#@ presscore
+msgctxt "widget"
+msgid "Title (optional):"
+msgstr ""
+
+#: inc/widgets/logos.php:176
+#@ presscore
+msgctxt "widget"
+msgid "Number of logos:"
+msgstr ""
+
+#: inc/widgets/logos.php:199
+#: inc/widgets/team.php:199
+#: inc/widgets/testimonials-slider.php:196
+#@ presscore
+msgctxt "widget"
+msgid "Autoslide:"
+msgstr ""
+
+#: inc/widgets/photos.php:30
+#: inc/widgets/photos.php:35
+#@ presscore
+msgctxt "widget"
+msgid "Photos"
+msgstr ""
+
+#: inc/widgets/photos.php:201
+#@ presscore
+msgctxt "widget"
+msgid "Show Photos from following categories:"
+msgstr ""
+
+#: inc/widgets/photos.php:228
+#@ presscore
+msgctxt "widget"
+msgid "How many:"
+msgstr ""
+
+#: inc/widgets/portfolio.php:30
+#: inc/widgets/portfolio.php:35
+#@ presscore
+msgctxt "widget"
+msgid "Portfolio projects"
+msgstr ""
+
+#: inc/widgets/progress-bars.php:27
+#: inc/widgets/progress-bars.php:35
+#@ presscore
+msgctxt "widget"
+msgid "Progress bars"
+msgstr ""
+
+#: inc/widgets/team.php:31
+#: inc/widgets/team.php:36
+#@ presscore
+msgctxt "widget"
+msgid "Team"
+msgstr ""
+
+#: inc/widgets/team.php:176
+#@ presscore
+msgctxt "widget"
+msgid "Number of team members:"
+msgstr ""
+
+#: inc/widgets/testimonials-list.php:30
+#: inc/widgets/testimonials-list.php:35
+#@ presscore
+msgctxt "widget"
+msgid "Testimonials list"
+msgstr ""
+
+#: inc/widgets/testimonials-list.php:169
+#: inc/widgets/testimonials-slider.php:173
+#@ presscore
+msgctxt "widget"
+msgid "Number of testimonials:"
+msgstr ""
+
+#: inc/widgets/testimonials-slider.php:31
+#: inc/widgets/testimonials-slider.php:36
+#@ presscore
+msgctxt "widget"
+msgid "Testimonials slider"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:92
+#: inc/widgets/contact-info.php:62
+#@ presscore
+msgctxt "widget"
+msgid "500px"
+msgstr ""
+
+#: inc/shortcodes/includes/social-icons/functions.php:93
+#: inc/widgets/contact-info.php:63
+#@ presscore
+msgctxt "widget"
+msgid "tripedvisor"
+msgstr ""
+

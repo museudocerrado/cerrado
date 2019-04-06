@@ -1,0 +1,7 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px"
+	 height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+	<path fill="white" d="M0,11c0,6.075,4.925,11,11,11s11-4.925,11-11S17.075,0,11,0
+		S0,4.925,0,11z M2,11c0-4.971,4.028-9,9-9c4.971,0,9,4.029,9,9c0,4.972-4.029,9-9,9C6.028,20,2,15.972,2,11z"/>
+	<polygon fill="white" points="12.008,7.006 12.008,15.012 6.028,11.009 	"/>
+	<rect x="11.498" y="10.009" fill="white" width="4.502" height="2"/>
+</svg>

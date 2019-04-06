@@ -1,0 +1,1155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-14 10:08+0300\n"
+"PO-Revision-Date: 2019-01-14 10:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"X-Poedit-SearchPathExcluded-2: *.txt\n"
+"X-Poedit-SearchPathExcluded-3: *.html\n"
+
+#: includes/list-table-items.php:53
+msgid "Edit"
+msgstr ""
+
+#: includes/list-table-items.php:54
+msgid "Duplicate"
+msgstr ""
+
+#: includes/list-table-items.php:55
+msgid "Delete"
+msgstr ""
+
+#: includes/list-table-items.php:110 includes/list-table-items.php:121
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: includes/list-table-items.php:111 includes/list-table-items.php:122
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/list-table-items.php:134 includes/modal-marker-view.php:40
+#: includes/page-item.php:36 includes/page-item.php:334
+msgid "Title"
+msgstr ""
+
+#: includes/list-table-items.php:135
+msgid "Active"
+msgstr ""
+
+#: includes/list-table-items.php:136 includes/page-item.php:142
+msgid "Shortcode"
+msgstr ""
+
+#: includes/list-table-items.php:137
+msgid "Author"
+msgstr ""
+
+#: includes/list-table-items.php:138
+msgid "Date"
+msgstr ""
+
+#: includes/list-table-items.php:139
+msgid "Modified"
+msgstr ""
+
+#: includes/modal-hide-effects.php:11
+msgid "Select a hide effect"
+msgstr ""
+
+#: includes/modal-hide-effects.php:140 includes/modal-show-effects.php:137
+msgid "Selected effect:"
+msgstr ""
+
+#: includes/modal-hide-effects.php:141 includes/modal-icons.php:24
+#: includes/modal-import-items.php:25
+#: includes/modal-marker-template-name.php:21
+#: includes/modal-marker-templates.php:44 includes/modal-marker-view.php:426
+#: includes/modal-show-effects.php:138
+msgid "Close"
+msgstr ""
+
+#: includes/modal-hide-effects.php:142 includes/modal-icons.php:25
+#: includes/modal-import-items.php:26 includes/modal-show-effects.php:139
+msgid "OK"
+msgstr ""
+
+#: includes/modal-icons.php:11 includes/modal-marker-view.php:97
+#: includes/page-item.php:448
+msgid "Select an icon"
+msgstr ""
+
+#: includes/modal-icons.php:23
+msgid "Selected icon:"
+msgstr ""
+
+#: includes/modal-import-items.php:11
+msgid "Select & import an item"
+msgstr ""
+
+#: includes/modal-import-items.php:16
+msgid "Select & import an item from the old version of the plugin."
+msgstr ""
+
+#: includes/modal-import-items.php:24
+msgid "Selected item:"
+msgstr ""
+
+#: includes/modal-marker-template-name.php:11
+msgid "Save the marker as a template"
+msgstr ""
+
+#: includes/modal-marker-template-name.php:15
+msgid "Sets a marker template name"
+msgstr ""
+
+#: includes/modal-marker-template-name.php:16
+msgid "Template name"
+msgstr ""
+
+#: includes/modal-marker-template-name.php:22
+#: includes/modal-marker-view.php:427 includes/page-item.php:145
+#: includes/page-settings.php:34
+msgid "Save"
+msgstr ""
+
+#: includes/modal-marker-templates.php:11
+msgid "Select a marker template"
+msgstr ""
+
+#: includes/modal-marker-templates.php:16
+#: includes/modal-marker-templates.php:36 includes/page-settings.php:46
+#: includes/page-settings.php:54
+msgid "default"
+msgstr ""
+
+#: includes/modal-marker-templates.php:43
+msgid "Selected template:"
+msgstr ""
+
+#: includes/modal-marker-templates.php:45
+msgid "Ok"
+msgstr ""
+
+#: includes/modal-marker-view.php:11
+msgid "Edit the marker view"
+msgstr ""
+
+#: includes/modal-marker-view.php:39 includes/page-item.php:333
+msgid "Sets a marker title"
+msgstr ""
+
+#: includes/modal-marker-view.php:47 includes/page-item.php:355
+msgid "Enable/disable auto marker width"
+msgstr ""
+
+#: includes/modal-marker-view.php:48 includes/page-item.php:186
+#: includes/page-item.php:356
+msgid "Auto width"
+msgstr ""
+
+#: includes/modal-marker-view.php:52 includes/page-item.php:360
+msgid "Sets a marker width in px"
+msgstr ""
+
+#: includes/modal-marker-view.php:53 includes/page-item.php:361
+#: includes/page-item.php:910
+msgid "Width [px]"
+msgstr ""
+
+#: includes/modal-marker-view.php:62 includes/page-item.php:369
+msgid "Enable/disable auto marker heihgt"
+msgstr ""
+
+#: includes/modal-marker-view.php:63 includes/page-item.php:198
+#: includes/page-item.php:370
+msgid "Auto height"
+msgstr ""
+
+#: includes/modal-marker-view.php:67 includes/page-item.php:374
+msgid "Sets a marker height in px"
+msgstr ""
+
+#: includes/modal-marker-view.php:68 includes/page-item.php:375
+msgid "Height [px]"
+msgstr ""
+
+#: includes/modal-marker-view.php:78 includes/page-item.php:428
+msgid "The marker size depends on the image size"
+msgstr ""
+
+#: includes/modal-marker-view.php:79 includes/page-item.php:429
+#: includes/page-item.php:890
+msgid "Responsive"
+msgstr ""
+
+#: includes/modal-marker-view.php:83 includes/page-item.php:433
+msgid "The marker is never the target of mouse events"
+msgstr ""
+
+#: includes/modal-marker-view.php:84 includes/page-item.php:434
+msgid "No events"
+msgstr ""
+
+#: includes/modal-marker-view.php:93 includes/page-item.php:444
+msgid "Sets a marker icon"
+msgstr ""
+
+#: includes/modal-marker-view.php:94 includes/page-item.php:445
+msgid "Icon name"
+msgstr ""
+
+#: includes/modal-marker-view.php:105 includes/page-item.php:456
+msgid "Sets an icon label"
+msgstr ""
+
+#: includes/modal-marker-view.php:106 includes/page-item.php:457
+msgid "Icon label"
+msgstr ""
+
+#: includes/modal-marker-view.php:115 includes/page-item.php:467
+msgid "Sets an icon color"
+msgstr ""
+
+#: includes/modal-marker-view.php:116 includes/page-item.php:468
+msgid "Icon color"
+msgstr ""
+
+#: includes/modal-marker-view.php:120 includes/page-item.php:472
+msgid "Sets an icon size"
+msgstr ""
+
+#: includes/modal-marker-view.php:121 includes/page-item.php:473
+msgid "Icon size"
+msgstr ""
+
+#: includes/modal-marker-view.php:128 includes/page-item.php:481
+msgid "Sets an icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:129 includes/page-item.php:482
+msgid "Icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:136 includes/page-item.php:490
+msgid "Sets a top icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:137 includes/page-item.php:491
+msgid "top"
+msgstr ""
+
+#: includes/modal-marker-view.php:141 includes/page-item.php:495
+msgid "Sets a right icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:142 includes/page-item.php:496
+msgid "right"
+msgstr ""
+
+#: includes/modal-marker-view.php:146 includes/page-item.php:500
+msgid "Sets a bottom icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:147 includes/page-item.php:501
+msgid "bottom"
+msgstr ""
+
+#: includes/modal-marker-view.php:151 includes/page-item.php:505
+msgid "Sets a left icon margin"
+msgstr ""
+
+#: includes/modal-marker-view.php:152 includes/page-item.php:506
+msgid "left"
+msgstr ""
+
+#: includes/modal-marker-view.php:159 includes/page-item.php:224
+#: includes/page-item.php:514
+msgid "Sets a background image (jpeg or png format)"
+msgstr ""
+
+#: includes/modal-marker-view.php:160 includes/page-item.php:225
+#: includes/page-item.php:515
+msgid "Background image"
+msgstr ""
+
+#: includes/modal-marker-view.php:163 includes/page-item.php:164
+#: includes/page-item.php:167 includes/page-item.php:228
+#: includes/page-item.php:518
+msgid "Select an image"
+msgstr ""
+
+#: includes/modal-marker-view.php:174 includes/page-item.php:175
+#: includes/page-item.php:239 includes/page-item.php:529
+msgid "Use relative path"
+msgstr ""
+
+#: includes/modal-marker-view.php:182 includes/page-item.php:538
+msgid "Sets a background color"
+msgstr ""
+
+#: includes/modal-marker-view.php:183 includes/page-item.php:219
+#: includes/page-item.php:539
+msgid "Background color"
+msgstr ""
+
+#: includes/modal-marker-view.php:187
+msgid "How a background image will be repeated"
+msgstr ""
+
+#: includes/modal-marker-view.php:188 includes/page-item.php:252
+#: includes/page-item.php:544
+msgid "Background repeat"
+msgstr ""
+
+#: includes/modal-marker-view.php:197 includes/page-item.php:245
+#: includes/page-item.php:554
+msgid "Specifies a size of the background image"
+msgstr ""
+
+#: includes/modal-marker-view.php:198 includes/page-item.php:246
+#: includes/page-item.php:555
+msgid "Background size"
+msgstr ""
+
+#: includes/modal-marker-view.php:202 includes/page-item.php:257
+#: includes/page-item.php:559
+msgid "Sets a starting position of the background image"
+msgstr ""
+
+#: includes/modal-marker-view.php:203 includes/page-item.php:258
+#: includes/page-item.php:560
+msgid "Background position"
+msgstr ""
+
+#: includes/modal-marker-view.php:204 includes/page-item.php:259
+#: includes/page-item.php:561
+msgid "Example: 50% 50%"
+msgstr ""
+
+#: includes/modal-marker-view.php:212 includes/page-item.php:569
+msgid "All"
+msgstr ""
+
+#: includes/modal-marker-view.php:213 includes/page-item.php:570
+msgid "Top"
+msgstr ""
+
+#: includes/modal-marker-view.php:214 includes/page-item.php:571
+msgid "Right"
+msgstr ""
+
+#: includes/modal-marker-view.php:215 includes/page-item.php:572
+msgid "Bottom"
+msgstr ""
+
+#: includes/modal-marker-view.php:216 includes/page-item.php:573
+msgid "Left"
+msgstr ""
+
+#: includes/modal-marker-view.php:227 includes/page-item.php:584
+msgid "Enable border"
+msgstr ""
+
+#: includes/modal-marker-view.php:232 includes/modal-marker-view.php:261
+#: includes/modal-marker-view.php:290 includes/modal-marker-view.php:319
+#: includes/modal-marker-view.php:348 includes/page-item.php:589
+#: includes/page-item.php:618 includes/page-item.php:647
+#: includes/page-item.php:676 includes/page-item.php:705
+msgid "Sets a border color"
+msgstr ""
+
+#: includes/modal-marker-view.php:233 includes/modal-marker-view.php:262
+#: includes/modal-marker-view.php:291 includes/modal-marker-view.php:320
+#: includes/modal-marker-view.php:349 includes/page-item.php:590
+#: includes/page-item.php:619 includes/page-item.php:648
+#: includes/page-item.php:677 includes/page-item.php:706
+msgid "Border color"
+msgstr ""
+
+#: includes/modal-marker-view.php:237 includes/modal-marker-view.php:266
+#: includes/modal-marker-view.php:295 includes/modal-marker-view.php:324
+#: includes/modal-marker-view.php:353 includes/page-item.php:594
+#: includes/page-item.php:623 includes/page-item.php:652
+#: includes/page-item.php:681 includes/page-item.php:710
+msgid "Sets a border style"
+msgstr ""
+
+#: includes/modal-marker-view.php:238 includes/modal-marker-view.php:267
+#: includes/modal-marker-view.php:296 includes/modal-marker-view.php:325
+#: includes/modal-marker-view.php:354 includes/page-item.php:595
+#: includes/page-item.php:624 includes/page-item.php:653
+#: includes/page-item.php:682 includes/page-item.php:711
+msgid "Border style"
+msgstr ""
+
+#: includes/modal-marker-view.php:242 includes/modal-marker-view.php:271
+#: includes/modal-marker-view.php:300 includes/modal-marker-view.php:329
+#: includes/modal-marker-view.php:358 includes/page-item.php:599
+#: includes/page-item.php:628 includes/page-item.php:657
+#: includes/page-item.php:686 includes/page-item.php:715
+msgid "Sets a border width"
+msgstr ""
+
+#: includes/modal-marker-view.php:243 includes/modal-marker-view.php:272
+#: includes/modal-marker-view.php:301 includes/modal-marker-view.php:330
+#: includes/modal-marker-view.php:359 includes/page-item.php:600
+#: includes/page-item.php:629 includes/page-item.php:658
+#: includes/page-item.php:687 includes/page-item.php:716
+msgid "Border width"
+msgstr ""
+
+#: includes/modal-marker-view.php:256 includes/page-item.php:613
+msgid "Enable top border"
+msgstr ""
+
+#: includes/modal-marker-view.php:285 includes/page-item.php:642
+msgid "Enable right border"
+msgstr ""
+
+#: includes/modal-marker-view.php:314 includes/page-item.php:671
+msgid "Enable bottom border"
+msgstr ""
+
+#: includes/modal-marker-view.php:343 includes/page-item.php:700
+msgid "Enable left border"
+msgstr ""
+
+#: includes/modal-marker-view.php:366 includes/page-item.php:724
+msgid "Sets a border radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:367 includes/page-item.php:725
+msgid "Border radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:374 includes/page-item.php:733
+msgid "Sets a border top-left radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:375 includes/page-item.php:734
+msgid "top-left"
+msgstr ""
+
+#: includes/modal-marker-view.php:379 includes/page-item.php:738
+msgid "Sets a border top-right radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:380 includes/page-item.php:739
+msgid "top-right"
+msgstr ""
+
+#: includes/modal-marker-view.php:384 includes/page-item.php:743
+msgid "Sets a border bottom-right radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:385 includes/page-item.php:744
+msgid "bottom-right"
+msgstr ""
+
+#: includes/modal-marker-view.php:390 includes/page-item.php:749
+msgid "Sets a border bottom-left radius"
+msgstr ""
+
+#: includes/modal-marker-view.php:391 includes/page-item.php:750
+msgid "bottom-left"
+msgstr ""
+
+#: includes/modal-marker-view.php:399 includes/page-item.php:758
+msgid "Sets additional css classes to the marker"
+msgstr ""
+
+#: includes/modal-marker-view.php:400
+msgid "Additional CSS class"
+msgstr ""
+
+#: includes/modal-marker-view.php:405 includes/page-item.php:772
+msgid "Enable/disable pulse animation"
+msgstr ""
+
+#: includes/modal-marker-view.php:406 includes/page-item.php:773
+msgid "Enable pulse"
+msgstr ""
+
+#: includes/modal-marker-view.php:413 includes/page-item.php:780
+msgid "Sets a pulse animation color"
+msgstr ""
+
+#: includes/modal-marker-view.php:414 includes/page-item.php:781
+msgid "Pulse color"
+msgstr ""
+
+#: includes/modal-marker-view.php:418 includes/page-item.php:785
+msgid "Sets a pulse animation duration"
+msgstr ""
+
+#: includes/modal-marker-view.php:419 includes/page-item.php:786
+msgid "Pulse duration [ms]"
+msgstr ""
+
+#: includes/modal-show-effects.php:11
+msgid "Select a show effect"
+msgstr ""
+
+#: includes/page-info.php:11
+msgid "This is the <b>LITE version</b> of the plugin."
+msgstr ""
+
+#: includes/page-info.php:12
+msgid "It has two limits:"
+msgstr ""
+
+#: includes/page-info.php:14
+msgid "You can create and use only <b>one item</b>"
+msgstr ""
+
+#: includes/page-info.php:15
+msgid "Your published item will have a <b>little icon</b>"
+msgstr ""
+
+#: includes/page-item.php:16
+msgid "ImageLinks Item"
+msgstr ""
+
+#: includes/page-item.php:18 includes/page-items.php:17
+msgid "Add Item"
+msgstr ""
+
+#: includes/page-item.php:41
+msgid "Add marker"
+msgstr ""
+
+#: includes/page-item.php:44
+msgid "Prev marker"
+msgstr ""
+
+#: includes/page-item.php:45
+msgid "Next marker"
+msgstr ""
+
+#: includes/page-item.php:48
+msgid "Copy marker"
+msgstr ""
+
+#: includes/page-item.php:49
+msgid "Edit marker"
+msgstr ""
+
+#: includes/page-item.php:50
+msgid "Enable/disable tooltip"
+msgstr ""
+
+#: includes/page-item.php:51
+msgid "Show/hide marker"
+msgstr ""
+
+#: includes/page-item.php:52
+msgid "Lock/unlock marker"
+msgstr ""
+
+#: includes/page-item.php:55
+msgid "Zoom in"
+msgstr ""
+
+#: includes/page-item.php:57
+msgid "Zoom out"
+msgstr ""
+
+#: includes/page-item.php:58
+msgid "Zoom default"
+msgstr ""
+
+#: includes/page-item.php:59
+msgid "Zoom fit"
+msgstr ""
+
+#: includes/page-item.php:60
+msgid "Move default"
+msgstr ""
+
+#: includes/page-item.php:119
+msgid "Buy Pro version"
+msgstr ""
+
+#: includes/page-item.php:120
+msgid "Pro Version"
+msgstr ""
+
+#: includes/page-item.php:126
+msgid "Load Config From File"
+msgstr ""
+
+#: includes/page-item.php:127
+msgid "Save Config To File"
+msgstr ""
+
+#: includes/page-item.php:128
+msgid "Import Config"
+msgstr ""
+
+#: includes/page-item.php:138 includes/page-item.php:328
+#: includes/page-settings.php:31
+msgid "General"
+msgstr ""
+
+#: includes/page-item.php:139
+msgid "Markers"
+msgstr ""
+
+#: includes/page-item.php:140
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/page-item.php:141
+msgid "Custom JS"
+msgstr ""
+
+#: includes/page-item.php:144
+msgid "The item should be saved before preview"
+msgstr ""
+
+#: includes/page-item.php:144
+msgid "Preview"
+msgstr ""
+
+#: includes/page-item.php:154
+msgid "Enable/disable item"
+msgstr ""
+
+#: includes/page-item.php:155
+msgid "Enable item"
+msgstr ""
+
+#: includes/page-item.php:160
+msgid "Sets a main image (jpeg or png format)"
+msgstr ""
+
+#: includes/page-item.php:161
+msgid "Main image"
+msgstr ""
+
+#: includes/page-item.php:181
+msgid "Container settings"
+msgstr ""
+
+#: includes/page-item.php:185
+msgid "The container width will be auto calculated"
+msgstr ""
+
+#: includes/page-item.php:191 includes/page-item.php:203
+msgid "Sets the container width, can be any valid CSS units, not just pixels"
+msgstr ""
+
+#: includes/page-item.php:192
+msgid "Custom width"
+msgstr ""
+
+#: includes/page-item.php:193 includes/page-item.php:205
+msgid "Default: auto"
+msgstr ""
+
+#: includes/page-item.php:197
+msgid "The container height will be auto calculated"
+msgstr ""
+
+#: includes/page-item.php:204
+msgid "Custom height"
+msgstr ""
+
+#: includes/page-item.php:209
+msgid "Specifies a theme of elements"
+msgstr ""
+
+#: includes/page-item.php:210
+msgid "Main theme"
+msgstr ""
+
+#: includes/page-item.php:212
+msgid "none"
+msgstr ""
+
+#: includes/page-item.php:218
+msgid "Background color in hexadecimal format (#fff or #555555)"
+msgstr ""
+
+#: includes/page-item.php:231
+msgid "Select a background image"
+msgstr ""
+
+#: includes/page-item.php:251 includes/page-item.php:543
+msgid "How the background image will be repeated"
+msgstr ""
+
+#: includes/page-item.php:263
+msgid "Sets additional css classes to the container"
+msgstr ""
+
+#: includes/page-item.php:264 includes/page-item.php:759
+#: includes/page-item.php:924
+msgid "Additional CSS classes"
+msgstr ""
+
+#: includes/page-item.php:278
+msgid "add marker"
+msgstr ""
+
+#: includes/page-item.php:281
+msgid "copy"
+msgstr ""
+
+#: includes/page-item.php:282
+msgid "move up"
+msgstr ""
+
+#: includes/page-item.php:283
+msgid "move down"
+msgstr ""
+
+#: includes/page-item.php:287
+msgid "delete"
+msgstr ""
+
+#: includes/page-item.php:288
+msgid "save the marker as a template"
+msgstr ""
+
+#: includes/page-item.php:299
+msgid "edit"
+msgstr ""
+
+#: includes/page-item.php:300
+msgid "enable/disable tooltip"
+msgstr ""
+
+#: includes/page-item.php:301
+msgid "show/hide"
+msgstr ""
+
+#: includes/page-item.php:302
+msgid "lock/unlock"
+msgstr ""
+
+#: includes/page-item.php:316
+msgid "Marker"
+msgstr ""
+
+#: includes/page-item.php:317
+msgid "Tooltip"
+msgstr ""
+
+#: includes/page-item.php:322
+msgid "Please, select a marker to view settings"
+msgstr ""
+
+#: includes/page-item.php:339
+msgid "Sets a marker position"
+msgstr ""
+
+#: includes/page-item.php:342
+msgid "X [px]"
+msgstr ""
+
+#: includes/page-item.php:346
+msgid "Y [px]"
+msgstr ""
+
+#: includes/page-item.php:382
+msgid "Set a marker angle"
+msgstr ""
+
+#: includes/page-item.php:383
+msgid "Angle [deg]"
+msgstr ""
+
+#: includes/page-item.php:391 includes/page-item.php:804
+msgid "Data"
+msgstr ""
+
+#: includes/page-item.php:396
+msgid "Adds a specific url to the marker"
+msgstr ""
+
+#: includes/page-item.php:397 includes/page-item.php:399
+msgid "URL"
+msgstr ""
+
+#: includes/page-item.php:406
+msgid "Open url in a new window"
+msgstr ""
+
+#: includes/page-item.php:411
+msgid ""
+"Adds a specific string data to the marker, if we want to use it in custom "
+"code later"
+msgstr ""
+
+#: includes/page-item.php:412
+msgid "User data"
+msgstr ""
+
+#: includes/page-item.php:420 includes/page-item.php:837
+msgid "Appearance"
+msgstr ""
+
+#: includes/page-item.php:767 includes/page-item.php:933
+msgid "Animation"
+msgstr ""
+
+#: includes/page-item.php:798
+msgid "Please, select a marker to view tooltip settings"
+msgstr ""
+
+#: includes/page-item.php:810
+msgid "Enable/disable tooltip for the selected marker"
+msgstr ""
+
+#: includes/page-item.php:811
+msgid "Enable tooltip"
+msgstr ""
+
+#: includes/page-item.php:845
+msgid "Specifies a tooltip event trigger"
+msgstr ""
+
+#: includes/page-item.php:846
+msgid "Trigger"
+msgstr ""
+
+#: includes/page-item.php:850
+msgid "Specifies a tooltip placement"
+msgstr ""
+
+#: includes/page-item.php:851
+msgid "Placement"
+msgstr ""
+
+#: includes/page-item.php:858
+msgid "Sets tooltip offset"
+msgstr ""
+
+#: includes/page-item.php:861
+msgid "Offset X [px]"
+msgstr ""
+
+#: includes/page-item.php:865
+msgid "Offset Y [px]"
+msgstr ""
+
+#: includes/page-item.php:874
+msgid "Enable/disable tooltip follow the cursor as you hover over the marker"
+msgstr ""
+
+#: includes/page-item.php:875
+msgid "Follow the cursor"
+msgstr ""
+
+#: includes/page-item.php:879
+msgid "The tooltip won't hide when you hover over or click on them"
+msgstr ""
+
+#: includes/page-item.php:880
+msgid "Interactive"
+msgstr ""
+
+#: includes/page-item.php:889
+msgid "The tooltip size depends on the image size"
+msgstr ""
+
+#: includes/page-item.php:894
+msgid ""
+"Determines if the tooltip is placed within the viewport as best it can be if "
+"there is not enough space"
+msgstr ""
+
+#: includes/page-item.php:895
+msgid "Smart"
+msgstr ""
+
+#: includes/page-item.php:904
+msgid ""
+"If true, the tooltip width will be taken from CSS rules, dont forget to "
+"define them"
+msgstr ""
+
+#: includes/page-item.php:905
+msgid "Width from CSS"
+msgstr ""
+
+#: includes/page-item.php:909
+msgid "Specifies a tooltip width"
+msgstr ""
+
+#: includes/page-item.php:911
+msgid "auto"
+msgstr ""
+
+#: includes/page-item.php:917
+msgid "The tooltip will be shown immediately once the instance is created"
+msgstr ""
+
+#: includes/page-item.php:918
+msgid "Show on init"
+msgstr ""
+
+#: includes/page-item.php:923
+msgid "Sets additional css classes to the tooltip"
+msgstr ""
+
+#: includes/page-item.php:941
+msgid ""
+"Select a show animation effect for the tooltip from the list or write your "
+"own"
+msgstr ""
+
+#: includes/page-item.php:942
+msgid "Show animation"
+msgstr ""
+
+#: includes/page-item.php:948 includes/page-item.php:960
+msgid "Select an effect"
+msgstr ""
+
+#: includes/page-item.php:953
+msgid ""
+"Select a hide animation effect for the tooltip from the list or write your "
+"own"
+msgstr ""
+
+#: includes/page-item.php:954
+msgid "Hide animation"
+msgstr ""
+
+#: includes/page-item.php:968
+msgid "Sets animation duration for show and hide effects"
+msgstr ""
+
+#: includes/page-item.php:969
+msgid "Duration [ms]"
+msgstr ""
+
+#: includes/page-item.php:985
+msgid "Enable/disable custom styles"
+msgstr ""
+
+#: includes/page-item.php:991
+msgid "Enable styles"
+msgstr ""
+
+#: includes/page-item.php:1007
+msgid "Enable/disable custom javascript code"
+msgstr ""
+
+#: includes/page-item.php:1013
+msgid "Enable javascript code"
+msgstr ""
+
+#: includes/page-item.php:1027
+msgid ""
+"Use a shortcode like the one below, simply copy and paste it into a post or "
+"page."
+msgstr ""
+
+#: includes/page-item.php:1030
+msgid "Standard shortcode"
+msgstr ""
+
+#: includes/page-item.php:1036 includes/page-item.php:1048
+msgid "Copy to clipboard"
+msgstr ""
+
+#: includes/page-item.php:1042
+msgid "Shortcode with custom CSS classes"
+msgstr ""
+
+#: includes/page-items.php:15
+msgid "ImageLinks Items"
+msgstr ""
+
+#: includes/page-preview.php:173 includes/plugin.php:355
+msgid "Error: invalid imagelinks database record"
+msgstr ""
+
+#: includes/page-settings.php:14
+msgid "ImageLinks Settings"
+msgstr ""
+
+#: includes/page-settings.php:32
+msgid "Actions"
+msgstr ""
+
+#: includes/page-settings.php:43
+msgid "Choose a default theme for your custom javascript editor"
+msgstr ""
+
+#: includes/page-settings.php:44
+msgid "JavaScript editor theme"
+msgstr ""
+
+#: includes/page-settings.php:51
+msgid "Choose a default theme for your custom css editor"
+msgstr ""
+
+#: includes/page-settings.php:52
+msgid "CSS editor theme"
+msgstr ""
+
+#: includes/page-settings.php:67
+msgid "Delete all items from database"
+msgstr ""
+
+#: includes/page-settings.php:68
+msgid "Do you really want to delete all data?"
+msgstr ""
+
+#: includes/page-settings.php:68
+msgid "Delete all data"
+msgstr ""
+
+#: includes/plugin.php:224
+msgid "Error: invalid imagelinks shortcode attributes"
+msgstr ""
+
+#: includes/plugin.php:376
+#, php-format
+msgid "The \"%s\" directory could not be created"
+msgstr ""
+
+#: includes/plugin.php:377 includes/plugin.php:387
+msgid "Please run the following commands in order to make the directory"
+msgstr ""
+
+#: includes/plugin.php:386
+#, php-format
+msgid ""
+"The \"%s\" directory is not writable, therefore the css and js files cannot "
+"be saved."
+msgstr ""
+
+#: includes/plugin.php:404 includes/plugin.php:405 includes/plugin.php:406
+#: includes/plugin.php:407
+msgid "ImageLinks"
+msgstr ""
+
+#: includes/plugin.php:405
+msgid "All Items"
+msgstr ""
+
+#: includes/plugin.php:406
+msgid "Add New"
+msgstr ""
+
+#: includes/plugin.php:407
+msgid "Settings"
+msgstr ""
+
+#: includes/plugin.php:447 includes/plugin.php:569 includes/plugin.php:648
+msgid "Available only in the pro version"
+msgstr ""
+
+#: includes/plugin.php:451 includes/plugin.php:577 includes/plugin.php:651
+msgid "Uncaught Error"
+msgstr ""
+
+#: includes/plugin.php:470
+msgid "[Duplicate] "
+msgstr ""
+
+#: includes/plugin.php:570
+msgid "Edit your text here"
+msgstr ""
+
+#: includes/plugin.php:571
+msgid "Custom js code error"
+msgstr ""
+
+#: includes/plugin.php:708 includes/plugin.php:778
+msgid "Item updated"
+msgstr ""
+
+#: includes/plugin.php:711 includes/plugin.php:781
+msgid "The operation failed, can't update the item"
+msgstr ""
+
+#: includes/plugin.php:715 includes/plugin.php:825 includes/plugin.php:878
+#: includes/plugin.php:921 includes/plugin.php:1958 includes/plugin.php:1964
+msgid "The operation failed"
+msgstr ""
+
+#: includes/plugin.php:751
+msgid ""
+"The operation failed, you can work only with one item. To create more, buy "
+"the pro version."
+msgstr ""
+
+#: includes/plugin.php:798
+msgid "Item created"
+msgstr ""
+
+#: includes/plugin.php:801
+msgid "The operation failed, can't create the item"
+msgstr ""
+
+#: includes/plugin.php:851
+msgid ""
+"The operation failed, can't create the template. Set the template name right"
+msgstr ""
+
+#: includes/plugin.php:865
+msgid "Template created"
+msgstr ""
+
+#: includes/plugin.php:868
+msgid ""
+"The operation failed, can't create the template. The template already exists "
+"with the same name"
+msgstr ""
+
+#: includes/plugin.php:872
+msgid ""
+"The operation failed, can't create the template. The template folder is "
+"unwritable"
+msgstr ""
+
+#: includes/plugin.php:908
+msgid "Template deleted"
+msgstr ""
+
+#: includes/plugin.php:911
+msgid ""
+"The operation failed, can't delete the template. The template does not exists"
+msgstr ""
+
+#: includes/plugin.php:960
+msgid "Settings updated"
+msgstr ""
+
+#: includes/plugin.php:963
+msgid "The operation failed, can't update settings"
+msgstr ""
+
+#: includes/plugin.php:1982
+msgid "The operation failed, can't delete data"
+msgstr ""
+
+#: includes/plugin.php:2036
+msgid "All data deleted"
+msgstr ""
+
+#: includes/plugin.php:2055
+msgid "The operation failed, can't import data"
+msgstr ""
+
+#: includes/plugin.php:2070
+msgid "All data imported"
+msgstr ""

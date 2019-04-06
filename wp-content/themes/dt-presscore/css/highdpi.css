@@ -1,0 +1,25 @@
+@media 
+  (min--moz-device-pixel-ratio: 2),
+  (-o-min-device-pixel-ratio: 2/1), 
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-device-pixel-ratio: 2) {
+
+
+/*soc icons*/
+.soc-ico a {
+	background-image: url(../images/retina/soc-ico/soc-icons.png);
+	-webkit-background-size: 951px 31px;
+	-moz-background-size: 951px 31px;
+	-o-background-size: 951px 31px;
+	-ms-background-size: 951px 31px;
+	background-size: 951px 31px;;
+}
+/*Share likes*/
+.entry-share .soc-ico a {	
+	background-image: url(../images/retina/share-ico/share-icons.png);
+  	-webkit-background-size: 88px 22px;
+	-moz-background-size: 88px 22px;
+	-o-background-size: 88px 22px;
+	-ms-background-size: 88px 22px;
+	background-size: 88px 22px;
+}

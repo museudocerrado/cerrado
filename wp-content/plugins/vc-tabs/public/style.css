@@ -1,0 +1,8 @@
+.ctu-ultimate-wrapper{   
+    width: 100%;
+    float: left;    
+}
+.ctu-ultimate-wrapper img{
+    height: auto;
+    max-width: 100%;
+}

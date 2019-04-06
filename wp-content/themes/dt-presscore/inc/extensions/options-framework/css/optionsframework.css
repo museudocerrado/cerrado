@@ -1,0 +1,460 @@
+/*-------------------------------------------------------------------------------------------*/
+/* OptionsFramework Admin Styles */
+/*-------------------------------------------------------------------------------------------*/
+
+.updated {
+	max-width:764px;
+	margin-bottom:0px !important;
+}
+
+#optionsframework {
+	position:relative;
+	z-index: 0;
+	max-width:780px;
+	background:#fff;
+	border: 0;
+}
+
+#optionsframework .sidebar-name, 
+#optionsframework h3 {
+	cursor: default;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+}
+
+#optionsframework h3 {
+	background: none;
+}
+
+#optionsframework .widgets-sortables {
+	border-style: solid;
+    border-width: 1px;
+	margin: 0 0 20px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+
+#optionsframework p {
+	margin-bottom:0;
+	padding-bottom:10px;
+}
+
+
+#optionsframework .section .section {
+	padding: 20px 20px 10px 20px;
+}
+#optionsframework .of-element {
+	padding-bottom: 10px;
+}
+#optionsframework .of-element .section {
+	padding: 0px 20px 10px 20px;
+}
+
+#optionsframework .section > .section:last-of-type {
+}
+
+/*
+#optionsframework h4 {
+	display: none;
+}
+*/
+
+#optionsframework .section .heading {
+	font-size: 1.33em;
+	margin: 5px 0 40px 0;
+}
+
+#optionsframework .divider {
+    border-bottom: 1px solid #FFFFFF;
+    border-top: 1px solid #D7D7D7;
+    height: 0;
+    margin: 5px 0;
+    width: 100%;
+}
+
+#optionsframework .section .controls {
+	float: left;
+	width: 79%;
+}
+
+#optionsframework .section .explain {
+	width:18%;
+	padding-right: 2%;
+	float: left;
+	font-size: 12px;
+	line-height:16px;
+	/*color: #777;*/
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+#optionsframework .section-fields_generator .explain,
+#section-of-preset .explain {
+	display: none;
+}
+#optionsframework .section-fields_generator .controls,
+#section-of-preset .explain {
+	width: 100%;
+}
+
+/*
+#optionsframework .section-images .explain {
+	max-width:75px !important;
+}
+#optionsframework .section-checkbox .controls {
+	min-width:25px;
+	width:25px
+}
+#optionsframework .section-checkbox .explain {
+	max-width:93%;
+}
+#optionsframework .section-color .controls {
+	min-width:125px;
+	width:125px
+}
+*/
+
+
+
+
+#optionsframework .controls input, #optionsframework .controls select, #optionsframework .controls textarea {
+	margin-bottom: 10px;
+	width:100%;
+}
+
+.nav-menus-php input[type="checkbox"], .of_fields_gen_controls  input[type="checkbox"] {
+	width: auto !important;
+	margin-left: 10px;
+}
+.nav-menus-php label, .of_fields_gen_controls label {
+	display: block;
+}
+
+#optionsframework .section-radio label, #optionsframework .section-multicheck label {
+	margin-right: 10px;
+}
+#optionsframework input.checkbox, #optionsframework input.of-radio {
+	width: auto;
+	clear:both;
+}
+#optionsframework .controls .of-color {
+	float:left;
+	width: 80px;
+	margin-left:5px;
+	margin-right:5px;
+}
+#optionsframework .controls .of-typography-size {
+	width:80px;
+	margin-left:5px;
+	float:left
+}
+#optionsframework .controls .of-typography-unit {
+	width:50px;
+	margin-left:5px;
+	float:left
+}
+#optionsframework .controls .of-typography-face {
+	width:100px;
+	margin-left:5px;
+	float:left
+}
+#optionsframework .controls .of-typography-style {
+	width:80px;
+	margin-left:5px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .of-background-properties {
+	clear:both;
+	margin-top: 18px;	
+}
+#optionsframework .controls .of-background-repeat {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .controls .of-background-position {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .controls .of-background-attachment {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework div.section-background .controls input.upload {
+	width:47%;
+}
+
+#optionsframework .controls .of-radio-img-inner-container {
+	display: inline-block;
+	float: left;
+	max-width: 173px;
+	margin:0 5px 10px 0;
+	border-width: 0px;
+}
+#optionsframework .controls .of-radio-img-inner-container .of-radio-img-label {
+	margin: 0px;
+	padding: 2px 3px 7px 3px;
+	cursor: pointer;
+	background-color: #f1f1f1;
+}
+#optionsframework .controls .of-radio-img-img {
+	border: 3px solid #fcfcfc;
+	display: none;
+	cursor: pointer;
+}
+#optionsframework .controls .of-radio-img-selected {
+	border:3px solid #D37272;
+}
+#optionsframework .controls .of-radio-img-img:hover {
+	opacity:.8;
+}
+
+#optionsframework .controls .of-border-width {
+	width:80px;
+	float:left
+}
+#optionsframework .controls .of-border-style {
+	width:120px;
+	float:left
+}
+#optionsframework .hide {
+	display:none;
+}
+#optionsframework .of-option-image {
+	max-width:340px;
+	margin:3px 0 18px 0;
+}
+#optionsframework .mini .controls select, #optionsframework .section .mini .controls {
+	width: 140px;
+}
+#optionsframework .mini .controls input, #optionsframework .mini .controls {
+	min-width:140px;
+	width: 140px;
+}
+#optionsframework .mini .explain {
+	max-width:74%;
+}
+/* Image Uploader */
+
+#optionsframework .controls input.upload {
+	width:80%;
+}
+#optionsframework .controls input.upload-button,
+#optionsframework .controls input.remove-file {
+	float:right;
+	width:70px;
+	cursor:pointer;
+}
+#optionsframework .controls input.upload-button:hover,
+#optionsframework .controls input.remove-file:hover {
+	border-color:#666666;
+}
+#optionsframework .screenshot {
+	float:left;
+	margin-left:1px;
+	position:relative;
+	width:344px;
+	margin-top:3px;
+}
+#optionsframework .screenshot img {
+	background:#FAFAFA;
+	border-color:#ccc #eee #eee #ccc;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	max-width:334px;
+	padding:4px;
+	margin-bottom:10px;
+}
+#optionsframework .screenshot .remove-image {
+	background:url("../images/ico-delete.png") no-repeat;
+	border:medium none;
+	bottom:4px;
+	display:block;
+	float:left;
+	height:16px;
+	padding:0;
+	position:absolute;
+	left:-4px;
+	text-indent:-9999px;
+	width:16px;
+	cursor:pointer;
+}
+#optionsframework .screenshot .no_image .file_link {
+	margin-left: 20px;
+}
+#optionsframework .screenshot .no_image .remove-image {
+	bottom: 0px;
+}
+#optionsframework .reset-button {
+	float:left;
+	cursor:pointer;
+}
+
+/* Bottom Section */
+
+#optionsframework-submit {
+
+}
+#optionsframework .button-primary {
+	float:right;
+}
+
+/* fields_generator */
+
+#optionsframework .nav-menus-php {
+    margin: 0 0 13px 0;
+}
+
+#optionsframework .nav-menus-php.fgens-add-new {
+    text-align: center;
+    cursor: pointer;
+    width: auto;
+    line-height: normal;
+    padding-top: 5px;
+}
+
+#optionsframework .controls div.of_fields_gen_title {
+    width: auto;
+    padding: 10px 22px 10px 10px;
+	line-height: normal;
+	font-weight: bold;
+}
+#optionsframework .controls .of_fields_gen_title a.of_fields_gen_del {
+    float: right;
+}
+#optionsframework .controls .of_fields_gen_data {
+    width: auto;
+	margin-top: -2px;
+	position: relative;
+	padding: 10px;
+}
+#optionsframework .controls .of_fields_gen_data label, #optionsframework .of_fields_gen_controls label{
+	font-style: italic;
+}
+
+#optionsframework .controls .of_fields_gen_controls {
+    width: 278px;
+    display: inline-block;
+    vertical-align: top;
+}
+#optionsframework .controls .of_fields_gen_list {
+    width: 300px;
+    display: block;
+    vertical-align: top;
+	margin: 0 40px 0 0;
+	padding: 0;
+	float: left;
+}
+
+#optionsframework .dt-hidden-desc {
+	display: none;
+}
+#optionsframework .info-mobile{
+	float: right;
+	padding-right: 10px;
+}
+#optionsframework .info-single {
+	float: right;
+	padding-right: 10px;
+}
+
+#optionsframework .section-fields_generator .of_fields_gen_list li.act .of_fields_gen_title{
+    border-color: green;
+}
+
+/* slider section */
+#optionsframework input.of-slider-value {
+    width: 30px;
+    border: 0;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#optionsframework .of-slider {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 4px;
+}
+
+/* info */
+#optionsframework .dt-option-info {
+	padding-left: 25px;
+}
+#optionsframework .section-info {
+	background-color: lightYellow;
+	padding: 0px 10px;
+	min-height: 0px;
+}
+
+/* radio */
+#optionsframework .controls .of-input.of-radio {
+	margin-right: 5px;
+}
+
+div.dt-web-fonts-preview {
+	padding: 10px;
+	text-align: center;
+	background-color: #f1f1f1;
+}
+
+div.dt-web-fonts-preview span {
+	font-size: 15px;
+}
+
+/* Social buttons */
+
+#optionsframework .section-social_buttons .connectedSortable  {
+	list-style-type: none;
+	min-height: 31px;
+	margin: 0;
+	padding: 5px;
+	margin-right: 10px;
+	width: 390px;
+	border-color: #DFDFDF;
+	border-width: 2px;
+	border-style: solid;
+	float: left;
+}
+#optionsframework .section-social_buttons .connectedSortable.tools-palette {
+	width: 143px;
+	border-color: #DFDFDF;
+	border-width: 2px;
+	border-style: dashed;
+	float: right;
+}
+#optionsframework .section-social_buttons .connectedSortable li {
+	cursor: default;
+	margin: 0 5px 5px 5px;
+	padding: 5px;
+	font-size: 1.2em;
+	width: 70px;
+}
+#optionsframework .section-social_buttons .content-holder li {
+	float: left;
+}
+#optionsframework .section-social_buttons .of-socbuttons-highlight {
+	height: 10px;
+	width: 70px;
+	border-color: #DFDFDF;
+	border-width: 2px;
+	border-style: dashed;
+}
+
+#optionsframework .section-social_buttons .ui-dt-sb-hidden {
+	display: none;
+	height: 10px;
+	width: 70px;
+	border-color: #DFDFDF;
+	border-width: 2px;
+	border-style: dashed;
+	float: left;
+}
